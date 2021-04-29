@@ -1,0 +1,15 @@
+playstation	0.693147
+the-clone-wars	0.682142
+october	0.682006
+place	0.679002
+november	0.666965
+lucasfilm	0.662430
+august	0.652277
+april	0.639547
+december	0.638169
+the-united-states	0.630268
+september	0.601079
+star-wars	0.560420
+the-game	0.488573
+the-film	0.459595
+the-series	0.415608

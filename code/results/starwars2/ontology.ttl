@@ -1,0 +1,16 @@
+@prefix ns1: <https://www.example.com/> .
+
+ns1:star-wars ns1:is-in ns1:august ;
+    ns1:revenge-of ns1:the-sith .
+
+ns1:august ns1:follows ns1:september .
+
+ns1:the-first-order ns1:is ns1:the-first-order ;
+    ns1:join-the-resistance ns1:leia .
+
+ns1:the-sith ns1:mentor ns1:the-jedi .
+
+ns1:leia ns1:characters ns1:the-force ;
+    ns1:however-become ns1:the-player ;
+    ns1:is ns1:leia .
+

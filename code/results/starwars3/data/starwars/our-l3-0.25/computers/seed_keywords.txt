@@ -1,0 +1,10 @@
+individuals
+participants
+computers
+decision-making
+heuristics
+people
+example
+the-cache
+time
+order

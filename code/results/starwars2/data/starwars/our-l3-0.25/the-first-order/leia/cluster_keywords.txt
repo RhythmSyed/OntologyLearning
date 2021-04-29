@@ -1,0 +1,12 @@
+0	finn
+0	the-player
+0	palpatine
+0	darth-vader
+1	the-mandalorian
+1	ren
+1	abrams
+1	lucas
+1	leia
+1	the-force
+1	luke
+1	rey

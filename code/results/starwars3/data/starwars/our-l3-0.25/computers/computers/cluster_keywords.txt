@@ -1,0 +1,6 @@
+0	the-cache
+0	time
+0	individuals
+0	participants
+0	computers
+1	people

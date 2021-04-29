@@ -1,0 +1,4 @@
+example	0.693147
+decision-making	0.693147
+heuristics	0.690395
+order	0.686227

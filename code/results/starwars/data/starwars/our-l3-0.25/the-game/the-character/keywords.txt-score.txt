@@ -1,0 +1,15 @@
+the-game	0.693147
+star-trek	0.693147
+the-original-series	0.693147
+a-new-hope	0.693147
+the-mandalorian	0.674902
+abrams	0.670313
+boba-fett	0.663334
+george-lucas	0.659179
+the-character	0.632806
+star-wars	0.621757
+the-role	0.621665
+the-franchise	0.621540
+lucas	0.593786
+fett	0.587467
+the-film	0.378431

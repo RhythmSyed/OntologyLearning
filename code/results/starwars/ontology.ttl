@@ -1,0 +1,25 @@
+@prefix ns1: <https://www.example.com/> .
+
+ns1:leia ns1:characters ns1:the-republic ;
+    ns1:child ns1:palpatine .
+
+ns1:the-game ns1:part-of ns1:the-character ;
+    ns1:was ns1:february .
+
+ns1:the-republic ns1:follows ns1:the-galactic-empire ;
+    ns1:member-of ns1:leia .
+
+ns1:february ns1:is ns1:february ;
+    ns1:part-of ns1:season .
+
+ns1:the-character ns1:became-despite ns1:boba-fett ;
+    ns1:characters ns1:the-game ;
+    ns1:is ns1:the-character ;
+    ns1:notable-work ns1:george-lucas ;
+    ns1:part-of ns1:abrams .
+
+ns1:the-galactic-empire ns1:is ns1:the-galactic-empire ;
+    ns1:part-of ns1:the-battle,
+        ns1:the-galaxy ;
+    ns1:participant ns1:attack .
+

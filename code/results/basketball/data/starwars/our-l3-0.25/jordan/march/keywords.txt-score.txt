@@ -1,0 +1,4 @@
+the-wnba	0.693147
+march	0.686425
+smith	0.681941
+april	0.676046

@@ -1,0 +1,12 @@
+obi-wan-kenobi
+anakin-skywalker
+darth-vader
+the-republic
+ahsoka
+the-first-order
+coruscant
+order
+c-3po
+the-resistance
+han-solo
+chewbacca

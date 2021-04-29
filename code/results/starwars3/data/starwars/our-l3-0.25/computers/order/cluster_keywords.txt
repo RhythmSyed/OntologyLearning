@@ -1,0 +1,4 @@
+0	decision-making
+0	heuristics
+1	example
+1	order

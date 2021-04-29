@@ -1,0 +1,15 @@
+tran	0.693147
+skywalker	0.693147
+the-last-jedi	0.693147
+the-show	0.693147
+kylo-ren	0.693147
+the-resistance	0.693147
+luke-skywalker	0.693147
+the-first-order	0.693147
+the-galaxy	0.693147
+the-solar-system	0.693147
+mars	0.688499
+earth	0.672548
+the-sun	0.671250
+the-character	0.595782
+planets	0.446612

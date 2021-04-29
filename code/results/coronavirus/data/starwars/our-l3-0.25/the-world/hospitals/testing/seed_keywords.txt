@@ -1,0 +1,9 @@
+patients
+the-second-dose
+the-disease
+the-vaccine
+symptoms
+home
+vaccines
+testing
+people

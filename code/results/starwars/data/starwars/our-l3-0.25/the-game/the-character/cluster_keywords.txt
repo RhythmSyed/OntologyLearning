@@ -1,0 +1,15 @@
+0	the-mandalorian
+0	abrams
+0	george-lucas
+0	the-character
+0	lucas
+1	the-game
+1	star-trek
+1	the-original-series
+1	a-new-hope
+1	boba-fett
+1	star-wars
+1	the-role
+1	the-franchise
+1	fett
+1	the-film

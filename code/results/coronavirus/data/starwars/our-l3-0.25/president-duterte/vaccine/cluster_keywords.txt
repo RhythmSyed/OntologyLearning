@@ -1,0 +1,7 @@
+0	the-tally
+0	vaccine
+0	the-process
+0	the-first-dose
+1	regencies
+1	510-municipalities
+1	monitoring

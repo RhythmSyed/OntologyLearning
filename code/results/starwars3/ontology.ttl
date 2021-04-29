@@ -1,0 +1,14 @@
+@prefix ns1: <https://www.example.com/> .
+
+ns1:computers ns1:apply-social-rules-to ns1:people ;
+    ns1:is ns1:computers ;
+    ns1:used-to ns1:heuristics .
+
+ns1:information ns1:is-in ns1:memory ;
+    ns1:stored-within ns1:data .
+
+ns1:order ns1:is ns1:order .
+
+ns1:the-process ns1:is ns1:information,
+        ns1:the-process .
+

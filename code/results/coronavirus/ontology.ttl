@@ -1,0 +1,20 @@
+@prefix ns1: <https://www.example.com/> .
+
+ns1:the-world ns1:with ns1:confirmed-cases .
+
+ns1:hospitals ns1:became ns1:the-uk ;
+    ns1:is ns1:hospitals ;
+    ns1:is-in ns1:scotland ;
+    ns1:reported ns1:testing .
+
+ns1:president-duterte ns1:declared-on ns1:march ;
+    ns1:downgraded-ncr-together-with ns1:june ;
+    ns1:extended-the-period-until ns1:september ;
+    ns1:had-suspended-classes-prior-to ns1:lockdown ;
+    ns1:is ns1:president-duterte ;
+    ns1:ordered ns1:the-doh .
+
+ns1:vaccine ns1:is ns1:vaccine .
+
+ns1:confirmed-cases ns1:is ns1:confirmed-cases .
+

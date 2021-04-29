@@ -1,0 +1,7 @@
+algorithms	0.693147
+memory	0.693147
+computer-science	0.679015
+the-number	0.664680
+information	0.654664
+the-process	0.647399
+data	0.628457

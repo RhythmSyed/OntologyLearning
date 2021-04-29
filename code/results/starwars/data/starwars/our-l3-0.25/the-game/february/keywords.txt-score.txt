@@ -1,0 +1,12 @@
+july	0.693147
+february	0.693147
+the-united-states	0.693147
+january	0.678905
+production	0.673383
+december	0.667322
+april	0.659036
+march	0.657349
+september	0.653982
+season	0.621254
+november	0.594797
+october	0.561150

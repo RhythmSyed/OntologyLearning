@@ -1,0 +1,17 @@
+0	memory
+0	the-process
+0	algorithms
+0	the-number
+0	computer-science
+0	data
+0	information
+1	individuals
+1	participants
+1	computers
+1	decision-making
+1	heuristics
+1	people
+1	example
+1	the-cache
+1	time
+1	order

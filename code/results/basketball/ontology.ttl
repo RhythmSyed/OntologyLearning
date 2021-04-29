@@ -1,0 +1,20 @@
+@prefix ns1: <https://www.example.com/> .
+
+ns1:france ns1:played-an-exhibition-game-against ns1:the-usa-team .
+
+ns1:jordan ns1:being-charged ns1:game ;
+    ns1:commented-in ns1:march ;
+    ns1:is ns1:jordan ;
+    ns1:was-heard-on ns1:april .
+
+ns1:the-opals ns1:is ns1:the-opals .
+
+ns1:march ns1:completed-a-deal-on ns1:the-wnba ;
+    ns1:is ns1:march ;
+    ns1:was-the-emcee-of ns1:smith .
+
+ns1:the-usa-team ns1:is ns1:the-usa-team ;
+    ns1:opened-the-2011-fiba-americas-u16-championship-against ns1:the-usa ;
+    ns1:played-an-exhibition-game-against ns1:france ;
+    ns1:was-named-as ns1:july .
+

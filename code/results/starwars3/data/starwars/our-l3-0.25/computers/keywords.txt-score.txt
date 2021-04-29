@@ -1,0 +1,10 @@
+the-cache	0.693147
+computers	0.693147
+decision-making	0.693147
+example	0.693147
+time	0.679441
+individuals	0.675466
+participants	0.675272
+heuristics	0.671326
+order	0.642067
+people	0.630307

@@ -1,0 +1,12 @@
+the-mandalorian	0.693147
+ren	0.693147
+abrams	0.693147
+leia	0.693147
+the-player	0.693147
+lucas	0.678796
+the-force	0.636930
+darth-vader	0.630067
+luke	0.603806
+finn	0.572812
+palpatine	0.539661
+rey	0.376035

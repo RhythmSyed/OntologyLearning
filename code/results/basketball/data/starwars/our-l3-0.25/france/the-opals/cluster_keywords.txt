@@ -1,0 +1,7 @@
+0	teams
+0	the-tournament
+1	the-us
+1	brazil
+1	the-opals
+1	australia
+1	the-u.s.

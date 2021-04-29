@@ -1,0 +1,11 @@
+the-united-states	0.693147
+players	0.693147
+women	0.693147
+jordan	0.693147
+the-year	0.678345
+basketball	0.674455
+the-celtics	0.667878
+game	0.665904
+the-league	0.664285
+the-end	0.641553
+the-nba	0.550228

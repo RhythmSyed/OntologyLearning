@@ -1,0 +1,7 @@
+the-us	0.693147
+brazil	0.693147
+the-opals	0.685004
+teams	0.683140
+the-tournament	0.653821
+australia	0.647346
+the-u.s.	0.624061

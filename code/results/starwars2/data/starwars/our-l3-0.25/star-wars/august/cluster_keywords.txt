@@ -1,0 +1,15 @@
+0	playstation
+0	the-clone-wars
+0	october
+0	november
+0	lucasfilm
+0	august
+0	april
+0	december
+0	the-united-states
+0	september
+1	place
+1	star-wars
+1	the-game
+1	the-film
+1	the-series

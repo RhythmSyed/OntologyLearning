@@ -1,0 +1,7 @@
+0	algorithms
+0	computer-science
+0	the-number
+0	the-process
+1	memory
+1	information
+1	data

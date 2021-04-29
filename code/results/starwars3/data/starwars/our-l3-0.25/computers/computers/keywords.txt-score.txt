@@ -1,0 +1,6 @@
+the-cache	0.693147
+time	0.693147
+individuals	0.693147
+participants	0.693147
+computers	0.693147
+people	0.643601

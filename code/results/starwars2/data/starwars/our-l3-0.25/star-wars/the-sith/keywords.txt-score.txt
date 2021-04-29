@@ -1,0 +1,12 @@
+warsaw	0.693147
+revenge	0.693147
+a-planet	0.693147
+the-old-republic	0.693147
+the-empire	0.679607
+the-planet	0.677188
+list	0.673304
+the-sith	0.672799
+the-story	0.670168
+the-jedi	0.668563
+return	0.663611
+knights	0.632422

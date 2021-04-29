@@ -1,0 +1,15 @@
+the-celtics	0.693147
+game	0.693147
+the-year	0.693147
+jordan	0.693147
+women	0.693147
+smith	0.682503
+april	0.682268
+basketball	0.680768
+the-united-states	0.672723
+players	0.667840
+march	0.653135
+the-end	0.648915
+the-wnba	0.643046
+the-nba	0.641681
+the-league	0.631558

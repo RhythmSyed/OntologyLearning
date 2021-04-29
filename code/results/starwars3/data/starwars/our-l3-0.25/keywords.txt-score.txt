@@ -1,0 +1,17 @@
+individuals	0.693147
+participants	0.693147
+computers	0.693147
+decision-making	0.693147
+memory	0.680776
+heuristics	0.666691
+people	0.665762
+the-process	0.658011
+algorithms	0.656427
+example	0.649651
+the-cache	0.649635
+the-number	0.647657
+time	0.640791
+computer-science	0.592827
+order	0.573551
+data	0.570682
+information	0.537775

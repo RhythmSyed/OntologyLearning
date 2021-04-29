@@ -1,0 +1,748 @@
+postscript was the-first-truly-international-standard for computer-printing as postscript included algorithms describing the-letter-forms of many-languages.
+another-security-firm, sophos, showed that adobe used a-weak-encryption-method permitting the-recovery of a-lot of information with very-little-effort.
+diagram – symbolic-representation of information using visualization-techniques-argument-map concept-map – diagram showing relationships among concepts-mind-map – system or map
+learning and memory ===
+a-computer-program or a-hardware-maintained-structure can follow in order to manage a-cache of information stored on the-computer.
+when a-cache of information stored on the-computer is full, the-algorithm must choose which-items to discard to make room for the-new-ones.
+with this-construction we have not reduced the-number of multiplications.
+the-number of additions and multiplications required in the-strassen-algorithm can be calculated as follows: let f(n)
+be the-number of operations for a-2n-×-2n-matrix.
++ ℓ4n, for some constant ℓ that depends on the-number of additions performed at each-application of the-algorithm.
+reduction in the-number of arithmetic-operations however comes at the-price of a-somewhat-reduced-numerical-stability, and the-algorithm also requires significantly-more-memory compared to the-algorithm.
+however, the-asymptotic-statement does not imply that strassen's-algorithm is always faster even for small-matrices, and in practice this is in fact not the-case: for small-matrices, the-cost of the-additional-additions of matrix-blocks outweighs the-savings in the-number of multiplications.
+there are also other-factors not captured by the-analysis above, such as the-difference in cost on today's-hardware between loading data from memory onto processors vs. the-cost of actually doing operations on this-data.
+in computing, cache-algorithms (also frequently called cache-replacement-algorithms or cache-replacement-policies) are optimizing instructions, or algorithms, that a-computer-program or a-hardware-maintained-structure can utilize in order to manage a-cache of information stored on the-computer.
+in particular, video-and-audio-streaming-applications often have a-hit-ratio close to zero, because each-bit of data in the-stream is read once for the-first-time (a compulsory miss), used, and then never read or written again.
+even worse, many-cache-algorithms (in-particular,-lru) allow this-streaming-data to fill the-cache, pushing out of the-cache information that will be used again soon
+items that expire with time: some-caches keep information that expires (e.g.-a-news-cache, a-dns-cache, or a-web-browser-cache).
+information that expires (e.g.-a-news-cache, a-dns-cache, or a-web-browser-cache) may discard items because information that expires (e.g.-a-news-cache, a-dns-cache, or a-web-browser-cache) are expired.
+when there is an-access to a-value, say 'a', and we cannot find a' in the-cache, then we load a' from memory and place
+data from misses is added to slru-cache at the-most-recently-accessed-end of the-probationary-segment.
+whenever data must be discarded from the-cache, lines are obtained from the-lru-end of the-probationary-segment.
+with the-three-hands, clock-pro is able to measure the-reuse-distance of data accesses in an-approximate-way.
+second, all-the-merits of lirs are retained, such as quickly evicting one-time accessing and/or low locality data items.
+arc improves on slru by using information about recently-evicted-cache-items to dynamically adjust the-size of the-protected-segment and the-probationary-segment to make the-best-use of the-available-cache-space.
+blocks stay in the-lru-queues for a-given-lifetime, which is defined dynamically by the-mq-algorithm to be the-maximum-temporal-distance between two-accesses to the-same-file or the-number of cache-blocks, whichever is larger.
+cognitive-bias-modification refers to the-process of modifying cognitive-biases in healthy-people and also refers to a-growing-area of psychological-(non-pharmaceutical)-therapies for anxiety, depression and addiction called cognitive bias modification therapy (cbmt).
+the-following-pseudocode demonstrates the-process of z-buffering:
+as the-weight-increases and the-molecules become more complex, the-number of possible-compounds increases drastically.
+thus, a-program that is able to reduce this-number of candidate-solutions through the-process of hypothesis-formation is essential.
+however, this is feasible only when the-number of candidate-solutions is minimal.
+dendral has specific-knowledge about the-mass-spectrometry-technique, a-large-amount of information that forms the-basis of chemistry and graph-theory, and information that might be helpful in finding the-solution of a-particular-chemical-structure-elucidation-problem.
+a-heuristic is a-rule of thumb, an-algorithm that does not guarantee a-solution, but reduces the-number of possible-solutions by discarding unlikely-and-irrelevant-solutions.
+the-use of heuristics to solve problems is called "heuristics programming", and was used in the-benefit-dendral to allow the-use of heuristics to solve problems to replicate in machines the-process through which human-experts induce the-solution to problems via rules of thumb-and-specific-information.
+as he was not an-expert in either-chemistry or computer-programming, he collaborated with stanford-chemist-carl-djerassi to help he with chemistry, and edward-feigenbaum with programming, to automate the-process of determining chemical-structures from raw-mass-spectrometry-data.
+when asked if an-audience believed the-number was informative of the-value of the-item, quite a few said yes.
+a-possible-cause would be the-discriminatory-fashion in which information is communicated, processed and aggregated based on each-individual's-anchored-knowledge and belief.
+the-process of offer and counteroffer results in a-mutually-beneficial-arrangement.
+computer-graphics is a-sub-field of computer-science which studies methods for digitally synthesizing and manipulating visual-content.
+algorithms to reproduce light-transport-imaging: image-acquisition or image-editing ===
+let n be the-number of points and d
+the-number of dimensions.
+algorithms ==
+rendering or image synthesis is the-process of generating a-photorealistic-or-non-photorealistic-image from a-2d-or-3d-model by means of a-computer-program.
+the-scene-file contains geometry, viewpoint, texture, lighting, and shading information describing the-virtual-scene.
+the-term "rendering" is also used to describe the-process of calculating effects in a-video-editing-program to produce the-final-video-output.
+this-newer-method of rasterization utilizes the-graphics-card's-more-taxing-shading-functions and still achieves better-performance because the-simpler-textures stored in memory use less-space.
+however, efforts at optimizing to reduce the-number of calculations needed in portions of a-work where detail is not high or does not depend on ray-tracing-features have led to a-realistic-possibility of wider-use of ray-tracing.
+in advanced-radiosity-simulation, recursive, finite-element algorithms 'bounce' light back and forth between surfaces in the-model, until some-recursion-limit is reached.
+in 3d-computer-graphics,-hidden-surface-determination (also known as shown-surface-determination, hidden-surface-removal (hsr), occlusion-culling (oc) or visible-surface-determination (vsd)) is the-process of identifying what-surfaces and parts of surfaces can be seen from a-particular-viewing-angle.
+the-process of hidden-surface-determination is sometimes called hiding, and such-an-algorithm is sometimes called a hider.
+algorithms ==
+because the-c-buffer-technique does not require a-pixel to be drawn more than once, the-process is slightly faster.
+various-screen-space-subdivision approaches reducing the-number of primitives considered per region, e.g.-tiling, or screen-space-bsp-clipping.
+intuitive-decision-making can be described as the-process by which information acquired through associated-learning and stored in long-term-memory is accessed unconsciously to form the-basis of a-judgment or decision.
+information acquired through associated-learning and stored in long-term-memory can be transferred through affect induced by exposure to available-options, or through unconscious-cognition.
+the-process of persuasion has been found to be influenced by numerous-variables that generally fall into one of five-major-categories: communicator: includes credibility, expertise, trustworthiness, and attractiveness.
+social-cognition studies how people perceive, think about, and remember information about others.
+the-confirmation-bias is a-type of bias leading to the-tendency to search for or interpret information in a-way that confirms one's-preconceptions.
+for example, an-athlete at a-university would have multiple-selves that would process different-information pertinent to each-self: the-student would be oneself, who would process information pertinent to a-student (taking notes in class, completing a-homework-assignment, etc.);
+an-athlete at a-university would be the-self who processes information about things related to being an-athlete (recognizing an-incoming-pass, aiming a-shot, etc.).
+is the-process of predicting how one would feel in response to future-emotional-events.
+by comparing themselves to others, people gain information about people, and people make inferences that are relevant to self-esteem.
+for example, one could correlate the-number of violent-television shows children watch at home with the-number of violent-incidents the-children participate in at school.
+an-example would be to unobtrusively observe children on a-playground (with a-videocamera, perhaps) and record the-number and types of aggressive-actions displayed.
+also, participant-conformity increased substantially as the-number of "incorrect"-individuals increased from one to three, and remained high as the-incorrect-majority grew.
+subject-area-page-social-psychology on all-about psychology — information and resources
+a-subsystem that transfers data between computer-components inside a-computer or between computers.
+the-process of keeping data in multiple-caches synchronised in a-multiprocessor-shared-memory-system, also required when dma modifies the-underlying-memory.
+freeing up data from within a-cache to make room for new-cache-entries to be allocated; controlled by a-cache replacement policy.
+a-small-block of memory within a-cache; the-granularity of allocation, refills, eviction;-typically-32–128-bytes in size.
+cache miss not finding data in a-local-cache, requiring use of the-cache-policy to allocate and fill this-data, and possibly performing evicting other-data to make room.
+cache thrashing a-pathological-situation where access in a-cache-cause cyclical-cache misses by evicting data that is needed in the-near-future.
+the-number of potential-cache-lines in an-associative-cache that specific-physical-addresses can be mapped to; higher-values reduce potential-collisions in allocation.
+any-data-input-device that reads data from a-card-shaped-storage-medium.
+dual in-line memory module (dimm)
+a-type of random-access-memory that stores each bit of data in a-separate-capacitor within an-integrated-circuit and which must be periodically refreshed to retain the-stored-data.
+e-==-expansion-bus-a-computer-bus which moves information between the-internal-hardware of a-computer-system (including the-cpu and ram) and peripheral-devices.
+firmware-fixed-programs and data that internally control various-electronic-devices.
+any-non-volatile-storage-device that stores data on rapidly-rotating-rigid-(i.e.-hard)-platters with magnetic-surfaces.
+harvard-architecture a-memory-architecture where program-machine-code and data are held in separate-memories, more commonly seen in microcontrollers and digital-signal-processors.
+l-==-load/store-instructions-instructions used to transfer data between memory-and-processor-registers.
+memory-devices that are used to store data or programs on a-temporary-or-permanent-basis for use in an-electronic-digital-computer.
+memory address the-address of a-location in a-memory or other-address-space.
+memory that can retain the-stored-data even when not powered, as opposed to volatile-memory.
+a-type of disk-drive that uses laser-light-or-electromagnetic-waves near the-light-spectrum as part of the-process of reading or writing data to or from optical-discs.
+the-process of pre-loading-instructions or data into a-cache ahead of time, either under manual-control via prefetch-instructions or automatically by a-prefetch-unit which may use runtime-heuristics to predict the-future-memory-access-pattern.
+the-pre-loading of instructions or data before either is needed by dedicated-cache-control-instructions or predictive-hardware, to mitigate latency.
+any of various-data-storage-schemes that can divide and replicate data across multiple-hard-disk-drives in order to increase reliability, allow faster-access, or both.
+a-type of computer-data-storage that allows data-items to be accessed (read or written) in almost-the-same-amount of time irrespective of the-physical-location of data inside the-memory.
+software any-computer-program or other-kind of information that can be read and/or written by a-computer.
+single in-line memory module (simm)
+any-data-storage-device that uses integrated-circuit-assemblies as memory to store data persistently.
+terminal-an-electronic-or-electromechanical-hardware-device that is used for entering data into, and displaying data from, a-computer or a-computing-system.
+working set the-set of data used by a-processor during a-certain-time-interval, which should ideally fit into a-cpu-cache for optimum-performance.
+in the-cache-oblivious-model: memory is broken into blocks of b {\displaystyle b}
+, we measure the-number of cache misses that the algorithm experiences.
+because the-model captures the-fact that accessing elements in the-cache is much faster than accessing things in main-memory, the-running-time of the-algorithm is defined only by the-number of memory-transfers between the-cache and main-memory.
+is an out-of-place matrix transpose operation (in-place algorithms have also been devised for transposition, but are much more complicated for non-square-matrices).
+assuming the-use of the-most-optimal-sorting-algorithm, painter's-algorithm has a-worst-case-complexity of o(n-log-n + m*n), where n is the-number of polygons and m is the-number of pixels to be filled.
+where n is the-number of polygons and m is the-number of pixels to be filled.
+this required programs to manage memory as efficiently as possible to conduct large-tasks without crashing.
+the-painter’s-algorithm prioritizes the-efficient-use of memory but at the-expense of higher-processing-power since all-parts of all-images must be rendered.
+because of this, defined-parameters or boundaries must be implemented in the-process in order to achieve an-acceptable-outcome.
+examples of social-information include information about the-behavior of a-social-entity or the-properties of a-social-system, while nonsocial-information is information about something physical.
+an-agent using social-circle-heuristic would search through her-social-circles in order of their-proximity to the-self (self, family, friends, and acquaintances), stopping the-search as soon as the-number of instances of one-alternative within a-circle exceeds that of the other, choosing the-alternative with the-higher-tally.
+the-process that involves using common-mental-shortcuts that help a-decision to be made based on known-probabilities.
+the-microsoft-sponsored-program-technology-education and literacy in schools (teals) aims to increase the-number of students taking ap-computer-science-classes.
+the-number of bits per pixel, sample, or texel in a-bitmap-image (holding one-or-mode-image-channels, typical-values being 4, 8, 16, 24, 32)
+color-resolution-command buffer a-region of memory holding a-set of instructions for a-graphics-processing-unit for rendering a-scene or portion of a-scene.
+megatexturing-texturing-technique that works with extremely-large-textures which are not loaded into memory all at once, but rather streamed from the-hard-disk depending on the-camera-view.
+rendering algorithms based on physics-simulation of light, including conservation of energy, empirical-models of surfaces.
+procedural-generation-generating-data, such as textures, 3d-geometry or whole-scenes by algorithms (as opposed to manually).
+the-process of subdividing an-object (either-geometric-object, or a-data-structure)
+information controlling a-graphics-pipeline, composed of modes and parameters, including resource-identifiers, and shader-bindings.
+the-process of rasterizing into a-texture-map (or texture-buffer) for further-use as a-resource in subsequent-render-passes.
+rendering primitive-geometry that can be drawn by a-rasterizer or graphics-processing-unit, connecting vertices, e.g.-points, lines, triangles, quadrilaterals rendering resources data managed by a-graphics-api, typically held in device-memory, including vertex-buffers, index-buffers, texture-maps and framebuffers repeating-texture
+texture sampling the-process of texture-lookup with texture-filtering.
+texture buffer a-region of memory (or resource) used as both-a-render-target and a-texture-map.
+triangulation the-process of turning arbitrary-geometric-models into triangle-primitives, suitable for algorithms requiring triangle-meshes-triangle primitive
+the-most-common-rendering-primitive-defining-triangle-meshes, rendered by graphics-processing-units triangle setup the-process of ordering triangle-primitive-vertices, calculating signed-triangle-area and parameter-gradients between vertex-attributes as a-prerequisite for rasterization.
+trivial accept the-process of accepting an-entire-rendering-primitive,-3d-model, or bounding-volume-contents without further-tests for clipping or occlusion-culling.
+the-process of flattening a-3d-model's-surface into a-flat-2d-plane in a-contiguous,-spatially-coherent-manner for texture-mapping.
+the-process usually starts with the-desktop, and proceeds by drawing each-window and any-child-windows from back to front, until finally the-foreground-window is drawn.
+out of this-desire came the-sol-20-computer, which placed an-entire-s-100-system – qwerty-keyboard, cpu, display-card, memory and ports – into an-attractive-single-box.
+internally a-newer-and-simpler-motherboard was used, along with an-upgrade in memory to 8, 16, or 32-kb, known as the 2001-n-8, 2001-n-16 or 2001-n-32, respectively.
+the-pc-xt of 1983 added a-10mb-hard-drive in place of one of the-two-floppy-disks and increased the-number of expansion-slots from 5 to 8.
+compared to samsung-predecessor in pc-clones, single data rate (sdr) sdram, the ddr sdram interface makes higher-transfer-rates possible by more-strict-control of the-timing of the-electrical-data and clock-signals.
+as of june 2008, the-number of personal-computers worldwide in use hit one billion.
+scelbi, another 1974 microcomputer simon (computer), a 1949 demonstration of computing-principles-list of pioneers in computer-science ==
+the-enclave is decrypted on the-fly only within the-cpu itself, and even then, only for code and data running from within the-enclave.
+the-code and data in the-enclave utilize a-threat-model in which the-enclave is trusted but no-process outside the-enclave can be trusted (including the-operating-system itself and any-hypervisor), and therefore all of these are treated as potentially hostile.
+load-value-injection injects data into a-program aiming to replace the-value loaded from memory which is then used for a-short-time before the-mistake is spotted and rolled back, during which lvi controls data-and-control-flow.
+where finding an-optimal-solution is impossible or impractical, heuristic-methods can be used to speed up the-process of finding a-satisfactory-solution.
+anchoring and adjustment — describes the-common-human-tendency to rely more heavily on the-first-piece of information offered (the "anchor") when making decisions.
+for example, in a-study done with children, children were told to estimate the-number of jellybeans in a-jar.
+children estimated the-number of jellybeans to be closer to the-anchor-number that children were given.
+a-20-year-term is used because it is difficult to tell what the-number should be for any-individual-patent.
+the-domain of pro-environmental-behavior provides numerous-illustrations for this-strategy, such as littering behavior in public-places, the-reuse of towels in hotel-rooms, and changes in private-energy-consumption in response to information about the-consumption of the-majority of neighbors.
+research indicates that the-process of making and remembering choices yields memories that tend to be distorted in predictable-ways.
+it is also possible that choice-supportive-memories arise because an-individual is only paying attention to certain-pieces of information when making a-decision or to post-choice-cognitive-dissonance.
+the-process of making a-decision mostly relies upon previous-experiences.
+misattribution results in a-type of choice-supportive-bias when information is attributed to the-wrong-source.
+selective-forgetting results in a-form of choice-supportive-bias when information is selectively forgotten.
+in this-respect, the-positive-attributes of the-chosen-option and the-negative-attributes of the-forgone-option are retained in memory at a-higher-rate and the-alternatives are displaced from memory at a-faster-rate.
+whereas other-researchers have shown that a-2-day-delay between making choices and assessment of memory resulted in reasonably-high-(86%)-recognition-accuracy.
+these-distortions in memory do not displace an-individual's-specific-memories, but these-distortions in memory-supplement and fill in the-gaps when generic-memories are lost.
+memory does not provide people with perfect-reproductions of what happened, memory only consists of constructions and reconstructions of what happened.
+stress-hormones affect memory ===
+one-study looked at the-accuracy and distortion in memory for high-school-grades.
+in addition, most-errors inflated the-actual-high-school-grade, meaning that these-distortions are attributed to memory-reconstructions in a-positive-and-emotionally-gratifying-direction-findings indicate that the-process of distortion does not cause the-actual-unpleasant-memory-loss of getting the-bad-grade.
+the-number of omission-errors increased with the-retention-interval and better-students made fewer-errors.
+written scenario memory tests ===
+list of memory biases wishful-thinking ==
+in a-computer-operating-system that uses paging for virtual-memory-management, page-replacement-algorithms decide which-memory-pages to page out, sometimes called swap out, or write to disk, when a-page of memory needs to be allocated.
+page-replacement happens when a-requested-page is not in memory (page fault) and a-free-page cannot be used to satisfy the-allocation, either because there are none, or because the-number of free-pages is lower than some-threshold.
+with several-gigabytes of primary-memory, algorithms that require a-periodic-check of each and every-memory-frame are becoming less and less practical.
+the-cpu sets the-access-bit when the-process reads or writes memory in that-page.
+the-cpu sets the-dirty-bit when the-process writes memory in that-page.
+the-operating-system can detect accesses to memory and files through the-following-means:
+this have information about the-order in which the-process accessed these-pages.
+this is slow because a-page-fault involves a-context-switch to the-os, software-lookup for the-corresponding-physical-address, modification of the-page-table and a-context-switch back to the-process and accurate because the-access is detected immediately after the-access occurs.
+directly when the-process makes system calls that potentially access the-page-cache like read and write in posix.
+this means that if target-page is dirty (that is, contains data that have to be written to the-stable-storage before page can be reclaimed), i/o has to be initiated to send the target-page to the-stable-storage (to clean the target-page).
+marking algorithms ==
+marking algorithms is a-general-class of paging-algorithms.
+this-algorithm cannot be implemented in a-general-purpose-operating-system because it is impossible to compute reliably how long it will be before a-page is going to be used, except when all-software that will run on a-system is either known beforehand and is amenable to static-analysis of all-software that will run on a-system memory reference patterns, or only-a-class of applications allowing run-time-analysis.
+despite this-limitation, algorithms exist that can offer near-optimal-performance — the-operating-system keeps track of all-pages referenced by the-program, and the-operating-system uses those-data to decide which-pages to swap in and out on subsequent-runs.
+the-not-recently-used-(nru)-page-replacement-algorithm is an-algorithm that favours keeping pages in memory that have been recently used.
+the-idea is obvious from the-name – the-operating-system keeps track of all-the-pages in memory in a-queue, with the-most-recent-arrival at the-back, and the-oldest-arrival in front.
+in simple-words, on a-page-fault, the-frame that has been in memory the longest is replaced.
+otherwise, the-r-bit is cleared, then the-clock-hand is incremented and the-process is repeated until a-page is replaced.
+clock-pro keeps a-circular-list of information about recently-referenced-pages, including all-m-pages in memory as well as the-most-recent-m-pages that have been paged out.
+because of implementation-costs, one may consider algorithms (like those that follow) that are similar to lru, but which offer cheaper-implementations.
+it has been proven, for example, that lru can never result in more-than-n-times-more-page-faults than opt algorithm, where n is proportional to the-number of pages in the-managed-pool.
+if present in memory and not privately modified the-physical-page is shared with file-cache or buffer.
+if the-scene is simple enough to compute then the-scene is rendered; otherwise the-scene is divided into smaller-parts and the-process is repeated.
+in 2008, warnock and geschke received the-computer-entrepreneur-award from the-ieee-computer-society "for inventing postscript and pdf and helping to launch the-desktop-publishing-revolution and change the-way people engage with information and entertainment".
+in computer-science, specifically in algorithms related to pathfinding, a-heuristic-function is said to be admissible if a-heuristic-function never overestimates the-cost of reaching the-goal, i.e. the-cost it never overestimates the-cost of reaching the-goal estimates to reach the-goal is not higher than the-lowest-possible-cost from the-current-point in the-path.
+an-admissible-heuristic can be derived from a-relaxed-version of the-problem, or by information from pattern-databases that store exact-solutions to subproblems of the-problem, or by using inductive-learning-methods.
+the-history of computer-science began long before our-modern-discipline of computer-science, usually appearing in forms like mathematics or physics.
+the-analytical-engine would have had a-memory-capacity of less-than-1-kilobyte of memory and a-clock-speed of less-than-10-hertz.
+the-von-neumann-architecture was considered innovative as the-von-neumann-architecture introduced an-idea of allowing machine-instructions and data to share memory-space.
+in von-neumann-machine-design, the-ipu passes addresses to memory, and memory, in turn, is routed either back to the-ipu if an-instruction is being fetched or to the-alu if data is being fetched.
+the-branches serve as go to statements), and logical-moves between the-different-components of the-machine, i.e.,-a-move from the-accumulator to memory or vice versa.
+the-group believed the-group could study this if a-machine could improve upon the-process of completing a-task in the-abstractions-part of the-group research.
+this would consist of sensory and other-forms of information about artificial-intelligence.
+abstractions in computer-science can refer to mathematics-and-programing-language.
+timeline of algorithms timeline of women in computing timeline of computing 2020–2029 ==
+the-process of removing physical,-spatial,-or-temporal-details or attributes in the-study of objects or systems to focus attention on details of greater-importance; it is similar in nature to the-process of generalization; the creation of abstract-concept-objects by mirroring common-features or attributes of various-non-abstract-objects or systems of study – the-result of the-process of abstraction.
+the-process of abstraction can also be referred to as modeling and is closely related to the-concepts of theory and design.
+abstraction in computer-science is closely related to abstraction in mathematics due to abstraction in mathematics-common-focus on building-abstractions as objects, but is also related to other-notions of abstraction used in other-fields such as art.
+the-usage of s-expressions as an-abstraction of data-structures and programs in the-lisp-programming-language; the-process of reorganizing common-behavior from non-abstract-classes into "abstract-classes" using inheritance to abstract over sub-classes as seen in the-object-oriented-c++ and java-programming-languages.
+either-the-database or the-payroll-application also has to initiate the-process of exchanging data with between ship and shore, and that data-transfer-task will often contain many-other-components.
+while much of data-abstraction occurs through computer-science and automation, there are times when this-process is done manually and without programming-intervention.
+one-way this can be understood is through data-abstraction within the-process of conducting a-systematic-review of the-literature.
+in this-methodology, data is abstracted by one-or-several-abstractors when conducting a-meta-analysis, with errors reduced through dual-data-abstraction followed by independent-checking, known as adjudication.
+as a-consequence, automatic-methods for deriving information on the-behavior of computer-programs either have to drop termination (on some-occasions, automatic-methods for deriving information on the-behavior of computer-programs may fail, crash or never yield out a-result), soundness (
+automatic-methods for deriving information on the-behavior of computer-programs may provide false-information), or precision (automatic-methods for deriving information on the-behavior of computer-programs may answer "i don't know" to some-questions).
+computer-science commonly presents levels (or, less commonly,-layers) of abstraction, wherein each-level represents a-different-model of the-same-information and processes, but with varying-amounts of detail.
+logical level: the-next-higher-level of abstraction describes what data the-database-stores, and what-relationships exist among those-data.
+even though the-logical-level uses simpler-structures, complexity remains because of the-variety of information stored in a-large-database.
+abstraction-inversion for an-anti-pattern of one-danger in abstraction abstract-data-type for an-abstract-description of a-set of data-algorithm for an-abstract-description of a-computational-procedure-bracket-abstraction for making a-term into a-function of a variable data modeling for structuring data independent of the-processes that use it
+computer-science & engineering (cse) is an-academic-program at many-universities which comprises scientific-and-engineering-aspects of computing.
+computer-science & engineering (cse) is also a-term often used in europe to translate the-name of engineering-informatics-academic-programs.
+note that the ghost lists only contain metadata (keys for the-entries) and not-the-resource-data itself, i.e. as an-entry is evicted into a-ghost-list an-entry data is discarded.
+in 3d-computer-graphics and computer-vision, a-depth-map is an-image-or-image-channel that contains information relating to the-distance of the-surfaces of scene-objects from a-viewpoint.
+and so the-technique may form a-part of the-process of miniature-faking.
+single-channel depth maps record the-first-surface seen, and so cannot display information about those-surfaces seen or refracted through transparent-objects, or reflected in mirrors.
+the-gap between the-speed of cpus and memory meant that the-cpu would often be idle.
+cpus were increasingly capable of running and executing larger-amounts of instructions in a-given-time, but the-time needed to access data from main-memory prevented programs from fully benefiting from this-capability.
+the-smaller-memory-structure called a cache resides closer to the-processor in terms of the-time taken to search and fetch data with respect to the-main-memory.
+aat for main-memory is significantly lower when accessing data through the-cache rather than main-memory.
+while using the-cache may improve memory-latency, using the-cache may not always result in the-required-improvement for the-time taken to fetch data due to the-way caches are organized and traversed.
+the-number of cache-levels can be designed by architects according to architects-requirements after checking for trade-offs between cost, aats, and size.
+example: main memory = 50 ns,
+in contrast, a-unified-cache contains both-the-instructions and data in the-same-cache.
+a-mathematical-model for data-types, where a-data-type is defined by a-data-type behavior (semantics) from the-point of view of a-user of the-data, specifically in terms of possible-values, possible-operations on data of this-type, and the-behavior of these-operations.
+the-process of removing physical,-spatial,-or-temporal-details or attributes in the-study of objects or systems in order to more closely attend to other-details of interest
+in computer-science, specifically in algorithms related to pathfinding, a-heuristic-function is said to be admissible if a-heuristic-function never overestimates the-cost of reaching the-goal, i.e. the-cost it never overestimates the-cost of reaching the-goal estimates to reach the-goal is not higher than the-lowest-possible-cost from the-current-point in the-path.
+algorithms can perform calculation, data-processing, and automated-reasoning-tasks.
+a-property of an-algorithm which relates to the-number of computational-resources used by the-algorithm.
+analysis of algorithms
+the-determination of the-computational-complexity of algorithms
+usually, this involves determining a-function that relates the-length of an-algorithm's-input to the-number of steps it takes (it time complexity) or the-number of storage-locations it uses (it space-complexity).
+in an-abstract-argumentation-framework, entry-level-information is a-set of abstract-arguments that, for instance, represent data or a-proposition.
+the-algorithms are typically modeled after the-immune-system's-characteristics of learning and memory for use in problem-solving.
+automated-reasoning an-area of computer-science and mathematical-logic dedicated to understanding different-aspects of reasoning.
+data with many-cases (rows) offer greater-statistical-power, while data with higher-complexity (more-attributes or columns) may lead to a-higher-false-discovery-rate.
+in computing,-tree-data-structures, and game-theory, the-number of children at each-node, the-outdegree.
+case-based-reasoning (cbr) broadly construed, the-process of solving new-problems based on the-solutions of similar-past-problems.
+when connected to the-cloud, robots can benefit from the-powerful-computation, storage, and communication-resources of modern-data-center in the-cloud, which can process and share information from various-robots or agent (other-machines, smart-objects, humans, etc.).
+computational-intelligence (ci) usually refers to the-ability of a-computer to learn a-specific-task from data or experimental-observation.
+the-study of algorithms for performing number-theoretic-computations.
+computer-science
+the-theory, experimentation, and engineering that form the-basis for the-design and use of computers involves the-study of algorithms that process, store, and communicate digital-information.
+the-process of integrating multiple-data-sources to produce more-consistent,-accurate,-and-useful-information than that provided by any-individual-data-source.
+the-process of combining data residing in different-sources and providing users with a-unified-view of data residing in different-sources.
+the-process of combining data residing in different-sources and providing users with a-unified-view of them becomes significant in a-variety of situations, which include both commercial (such as when two-similar-companies need to merge two-similar-companies databases) and scientific (combining research-results from different-bioinformatics-repositories, for example)-domains.
+the-process of discovering patterns in large-data-sets involving methods at the-intersection of machine-learning, statistics, and database-systems.
+an-interdisciplinary-field that uses scientific-methods, processes, algorithms and systems to extract knowledge and insights from data in various-forms, both structured and unstructured, similar to data-mining.
+data set also dataset.
+the data set lists values for each of the-variables, such as height and weight of an-object, for each-member of the data set.
+the data set may comprise data for one-or-more-members, corresponding to the-number of rows.
+in the-case of backpropagation-based-artificial-neural-networks or perceptrons, the-type of decision-boundary that the-network can learn is determined by the-number of hidden-layers the-network has.
+diagnosis concerned with the-development of algorithms and techniques that are able to determine whether the-behaviour of a-system is correct.
+the-computation is based on observations, which provide information on the-current-behaviour.
+the-process of reducing the-number of random-variables under consideration by obtaining a-set of principal-variables.
+, ensemble-averaging is the-process of creating multiple-models and combining ensemble-averaging to produce a-desired-output, as opposed to creating just-one-model.
+a-family of algorithms for global-optimization inspired by biological-evolution, and the-subfield of artificial-intelligence and soft-computing studying these-algorithms.
+in technical-terms, a-family of algorithms for global-optimization inspired by biological-evolution, and the-subfield of artificial-intelligence and soft-computing studying these-algorithms are a-family of population-based-trial-and-error-problem-solvers with a-metaheuristic-or-stochastic-optimization-character.
+feature-selection in machine-learning and statistics, feature-selection, also known as variable-selection, attribute selection or variable-subset-selection, is the-process of selecting a-subset of relevant-features (variables, predictors) for use in model-construction.
+frames are focused on explicit-and-intuitive-representation of knowledge whereas objects focus on encapsulation and information hiding.
+the-fuzzy-set-theory can be used in a-wide-range of domains in which information is incomplete or imprecise, such as bioinformatics.
+a-metaheuristic inspired by the-process of natural-selection that belongs to the-larger-class of evolutionary-algorithms (ea).
+a-key-concept of the-system is the-graph (or edge or relationship), which directly relates data-items in the-store a-collection of nodes of data and edges representing the-relationships between the-nodes.
+the-relationships allow data in the-store to be linked together directly, and in many-cases retrieved with one-operation.
+graph-databases hold the-relationships between data as a-priority.
+the-process of visiting (checking and/or updating)
+a-heuristic-search-method that seeks to automate the-process of selecting, combining, generating, or adapting several-simpler-heuristics (or components of such-heuristics) to efficiently solve computational-search-problems, often by the-incorporation of machine-learning-techniques.
+algorithms that can facilitate incremental-learning are known as incremental-machine-learning-algorithms.
+the-merging of information from heterogeneous-sources with differing-conceptual,-contextual-and-typographical-representations.
+the-merging of information from heterogeneous-sources with differing-conceptual,-contextual-and-typographical-representations is used in data-mining and consolidation of data from unstructured-or-semi-structured-resources.
+information-fusion, which is a-related-term, involves the-combination of information into a-new-set of information towards reducing redundancy and uncertainty.
+in machine-learning, kernel-methods are a-class of algorithms for pattern-analysis, whose-best-known-member is the-support-vector-machine (svm).
+the-process used to define the-rules and ontologies required for a-knowledge-based-system.
+the-field of artificial-intelligence dedicated to representing information about the-world in a-form that a-computer-system can utilize to solve complex-tasks such as diagnosing a-medical-condition or having a-dialog in a-natural-language.
+lstm can not only process single-data-points (such as images), but also entire-sequences of data (such as speech or video).
+a-general-field of study of algorithms and systems for audio-understanding by machine.
+the-capability of a-computer-system to interpret data in a-manner that is similar to the-way humans use humans senses to relate to the-world around humans.
+metaheuristic in computer-science and mathematical-optimization, a-metaheuristic is a-higher-level-procedure or heuristic designed to find, generate, or select a-heuristic-(partial-search-algorithm) that may provide a-sufficiently-good-solution to an-optimization-problem, especially with incomplete-or-imperfect-information or limited-computation-capacity.
+an-approach used in computer-science for representing basic-knowledge about a-specific-domain, and has been used in applications such as the-representation of the-meaning of natural-language-sentences in artificial-intelligence-applications.
+an-ntm with a long short-term memory (lstm) network controller can infer simple-algorithms such as copying, sorting, and associative-recall from examples alone.
+nodes contain data and also may link to other-nodes.
+offline learning online machine learning a-method of machine learning in which data becomes available in a-sequential-order and is used to update the-best-predictor for future-data at each-step, as opposed to batch-learning-techniques which generate the-best-predictor by learning on the-entire-training-data set at once.
+concerned with the-automatic-discovery of regularities in data through the-use of computer-algorithms and with the-use of these-regularities to take actions such as classifying the-data into different-categories.
+broadly, query-languages can be classified according to whether query-languages are database query-languages or information retrieval query-languages.
+the-difference is that a-database-query-language attempts to give factual-answers to factual-questions, while an-information-retrieval-query-language attempts to find documents containing information that is relevant to an-area of inquiry.
+a-family of world-wide-web-consortium-(w3c)-specifications originally designed as a-metadata-data-model has come to be used as a-general-method for conceptual-description or modeling of information that is implemented in web-resources, using a-variety of syntax-notations and data-serialization-formats.
+a-pattern-matching-algorithm for implementing rule-based-systems is used to determine which of the-system's-rules should fire based on a-pattern-matching-algorithm for implementing rule-based-systems data store, a-pattern-matching-algorithm for implementing rule-based-systems facts.
+in computer-science, a-rule-based-system is used to store and manipulate knowledge to interpret information in a-useful-way.
+any-algorithm which solves the-search-problem, namely, to retrieve information stored within some-data-structure, or calculated in the-search-space of a-problem-domain, either with discrete-or-continuous-values.
+the-process by which computer-systems manage computer-systems own-operation without human-intervention.
+semantic-queries enable the-retrieval of both explicitly and implicitly derived information based on syntactic,-semantic-and-structural-information contained in data.
+the-combining of sensory-data or data derived from disparate-sources such that the-resulting-information has less-uncertainty than would be possible when these-sources were used individually.
+that is,-a-semantic-query-language for databases—able to retrieve and manipulate data stored in resource-description-framework-(rdf)-format.
+an-approach used in computer-science as a-semantic-component of natural-language-understanding.
+in machine-learning, support-vector-machines (svms, also support-vector-networks) are supervised learning-models with associated-learning-algorithms that analyze data used for classification and regression-analysis.
+time-complexity is commonly estimated by counting the-number of elementary-operations performed by the-algorithm, supposing that each-elementary-operation takes a-fixed-amount of time to perform.
+thus, the-amount of time taken and the-number of elementary-operations performed by the-algorithm are taken to differ by at most-a-constant-factor.
+a-form of graph-traversal and refers to the-process of visiting (checking and/or updating)
+unsupervised learning a-type of self-organized hebbian learning that helps find previously-unknown-patterns in data set without pre-existing-labels.
+the-name "divide and conquer" is sometimes applied to algorithms that reduce each-problem to only-one-sub-problem, such as the-binary-search-algorithm for finding a-record in a-sorted-list (or its-analog in numerical-computing, the bisection algorithm for root-finding).
+divide-and-conquer-algorithms are naturally adapted for execution in multi-processor-machines, especially-shared-memory-systems where the-communication of data between processors does not need to be planned in advance, because distinct-sub-problems can be executed on different-processors.
+algorithms naturally tend to make efficient-use of memory-caches.
+explicit-stack === divide-and-conquer algorithms can also be implemented by a-non-recursive-program that stores the-partial-sub-problems in some-explicit-data-structure, such as a-stack, queue, or priority-queue.
+thus, for example, many-library-implementations of quicksort will switch to a-simple-loop-based-insertion-sort (or similar)-algorithm once the-number of items to be sorted is sufficiently small.
+computer-science is the-study of algorithmic-processes, computational-machines and computation itself.
+as a-discipline, computer-science spans a-range of topics from theoretical-studies of algorithms, computation and information to the-practical-issues of implementing computational-systems in hardware and software.
+algorithms and data-structures have been called the heart of computer-science.
+programming-language-theory considers approaches to the-description of computational-processes, while computer-programming involves the-use of algorithms and data-structures to create complex-systems.
+the-fundamental-concern of computer-science is determining what can and cannot be automated.
+the-earliest-foundations of what would become computer-science predate the-invention of the-modern-digital-computer.
+algorithms for performing computations have existed since antiquity, even before the-development of sophisticated-computing-equipment.
+gottfried-leibniz may be considered the first computer scientist and information theorist, for, among other-reasons, documenting the-binary-number-system.
+as the-term-computer became clear that computers could be used for more than just-mathematical-calculations, the-field of computer-science broadened to study computation in general.
+ultimately, the-close-relationship between ibm-and-columbia-university in new-york-city was instrumental in the-emergence of a-new-scientific-discipline, with columbia offering one of the-first-academic-credit-courses in computer-science in 1946.
+computer-science began to be established as a-distinct-academic-discipline in the-1950s and early-1960s.
+despite purdue-name, a-significant-amount of computer-science does not involve the-study of computers themselves.
+for example, the-study of computer-hardware is usually considered part of computer-engineering, while the-study of commercial-computer-systems and for example deployment is often called information technology or information systems.
+computer-science is considered by some to have a-much-closer-relationship with mathematics than many-scientific-disciplines, with some-observers saying that computing is a-mathematical-science.
+the-relationship between computer-science-and-software-engineering is a-contentious-issue, which is further muddied by disputes over what the-term "software engineering" means, and how computer-science is defined.
+david-parnas, taking a-cue from the-relationship between other-engineering-and-science-disciplines, has claimed that the-principal-focus of computer-science is studying the-properties of computation in general, while the-principal-focus of software-engineering is the-design of specific-computations to achieve practical-goals, making the-two-separate-but-complementary-disciplines.
+the-academic,-political,-and-funding-aspects of computer-science tend to depend on whether a-department is formed with a-mathematical-emphasis or with an-engineering-emphasis.
+amnon-h.-eden described peter-denning's-working-group as the-"rationalist-paradigm" (which treats computer-science as a-branch of mathematics, which is prevalent in theoretical computer-science, and mainly employs deductive-reasoning), the-"technocratic-paradigm" (which might be found in engineering-approaches, most prominently in software-engineering), and the-"scientific-paradigm" (which approaches computer-related-artifacts from the-empirical-perspective of natural-sciences, identifiable in some-branches of artificial-intelligence).
+computer-science focuses on methods involved in design, specification, programming, verification, implementation and testing of human-made-computing-systems.
+computer-science is no more about computers than astronomy is about telescopes.
+as a-discipline, computer-science spans a-range of topics from theoretical-studies of algorithms and the-limits of computation to the-practical-issues of implementing computing-systems in hardware and software.
+(ieee cs)—identifies four-areas that ieee considers crucial to the-discipline of computer-science: theory of computation, algorithms and data structures, programming-methodology and languages, and computer-elements and architecture.
+this was developed by claude-shannon to find fundamental-limits on signal-processing-operations such as compressing data and on reliably storing and communicating data.
+coding-theory is the-study of the-properties of codes (systems for converting information from one-form to another) and their-fitness for a-specific-application.
+data-structures and algorithms ====
+data-structures and algorithms are the-studies of commonly-used-computational-methods and data-structures and algorithms-computational-efficiency.
+programming-language-theory is a-branch of computer-science that deals with the-design, implementation, analysis, characterization, and classification of programming-languages and programming-languages individual features.
+computers within that-distributed-system have computers within that-distributed-system own private-memory, and information can be exchanged to achieve common-goals.
+this-branch of computer-science aims to manage networks between computers worldwide.
+computer-security is a-branch of computer-technology with the-objective of protecting information from unauthorized-access, disruption, or modification while maintaining the-accessibility and usability of the-system for the-system intended users.
+a-database is intended to organize, store, and retrieve large-amounts of data easily.
+information can take the-form of images, sound, video or other-multimedia.
+bits of information can be streamed via signals.
+applied computer-science === ====
+in 1981, the-bbc produced a-micro-computer-and-classroom-network and computer-studies became common for gce-o-level-students (11–16-year-old), and computer-science to a-level-students.
+computer-science-importance was recognised, and computer-science became a-compulsory-part of the-national-curriculum, for key-stage 3 & 4.
+israel, new-zealand, and south-korea have included computer-science in israel, new-zealand, and south-korea national secondary education curricula, and several-others are following.
+computer-science at curlie-scholarly-societies in computer-science
+best-papers-awards in computer-science since 1996
+stack-exchange: a-community-run-question-and-answer-site for computer-science
+what is computer-science is computer-science science?
+computer-science (software) must be considered as an-independent-discipline.
+in situations of uncertainty, where information is incomplete, heuristics allow for the-less-is-more-effect, in which less-information leads to greater-accuracy.
+the-decision-maker gradually reduces the-number of alternatives by eliminating alternatives that do not meet the-aspiration-level of a-specific-attribute (or aspect).
+the take-the-best heuristic exploits the-basic-psychological-capacity for retrieving cues from memory in the-order of their-validity.
+ci-/-tiwhere-ti is the-number of cases the-values of the-two-alternatives differ on cue-i.
+people's-answers to the-problem typically reply that the-number of births in the-hospital makes no-difference to the-likelihood of more-than-60%-male-babies in one-day.
+substitution is not expected to take place in answering factual-questions that can be retrieved directly from memory ("what is your-birthday?")
+this explains how there are often two-ways we are able to process information from persuasive-messages, one being heuristically and the other systematically.
+the-following is a-list of algorithms along with one-line-descriptions for each.
+algorithms for computing the-minimum-spanning-tree of a-set of points in the-plane
+euler-integration multigrid-methods (mg-methods), a-group of algorithms for solving differential-equations using a-hierarchy of discretizations-partial-differential-equation:
+bicubic-interpolation, a-generalization of cubic-interpolation to two-dimensions bilinear-interpolation: an-extension of linear-interpolation for interpolating functions of two-variables on a-regular-grid lanczos-resampling ("lanzosh"): a-multivariate-interpolation-method used to compute new-values for any digitally sampled data nearest-neighbor interpolation tricubic-interpolation, a-generalization of cubic-interpolation to three-dimensions
+velvet: a-set of algorithms manipulating de-bruijn-graphs for genomic sequence assembly sorting by signed-reversals: an-algorithm for understanding genomic-evolution.
+a-class of algorithms for satisfying constraints for bodies that obey newton's-equations of motion
+rainflow-counting-algorithm: reduces a-complex-stress-history to a-count of elementary-stress-reversals for use in fatigue analysis sweep and prune: a-broad-phase-algorithm used during collision-detection to limit the-number of pairs of solids that need to be checked for collision-vegas-algorithm: a-method for reducing error in monte-carlo-simulations ===
+algorithms for calculating variance: avoiding instability and numerical-overflow
+computer-science == ===
+algorithms blakey's-scheme shamir's-scheme-symmetric-(secret-key
+post-quantum-cryptography proof-of-work algorithms ===
+hopcroft's-algorithm, moore's-algorithm, and brzozowski's-algorithm: algorithms for minimizing the-number of states in a-deterministic-finite-automaton
+a-hamming-code that encodes 4-bits of data into 7-bits by adding 3-parity-bits-hamming-distance: sum-number of positions which are different-hamming-weight (population count) : find the-number of 1-bits in a-binary-word redundancy-checks
+lossless compression algorithms ====
+burrows–wheeler transform: preprocessing useful for improving lossless-compression-context-tree-weighting-delta-encoding: aid to compression of data in which sequential-data occurs frequently
+transform algorithms (fct-algorithms):
+region growing watershed-transformation: a-class of algorithms based on the-watershed-analogy ==
+: convert a-large,-possibly-variable-sized-amount of data into a-small-datum, usually-a-single-integer that may serve as an-index into an-array-fowler–noll–
+algorithms for recovery and isolation exploiting semantics (aries):
+memory-allocation and deallocation algorithms
+algorithm to allocate memory such that fragmentation is less.
+an-improvement on the-semi-space-collector-generational-garbage-collector: fast-garbage-collectors that segregate memory by age-mark-compact-algorithm: a-combination of the-mark-sweep-algorithm and cheney's-copying-algorithm
+algorithms ==
+list of data structures list of machine-learning-algorithms
+list of pathfinding algorithms list of algorithm general topics list of terms relating to algorithms and data-structures heuristic ==
+this-simplified-form assumes that n is a-power of two; since the-number of sample-points
+rescaling the time by the-number of operations, this corresponds roughly to a-speedup-factor of around 800,000.
+if, instead of using a-small-radix, one employs a-radix of roughly-√n and explicit-input/output-matrix-transpositions, it is called a four-step algorithm (or six-step, depending on the-number of transpositions), initially proposed to improve memory-locality, e.g. for cache-optimization or out-of-core operation, and was later shown to be an-optimal-cache-oblivious-algorithm.
+data-reordering, bit-reversal, and in-place algorithms ==
+also, while the-permutation is a-bit-reversal in the-radix-2-case, it is more generally an-arbitrary-(mixed-base)-digit-reversal for the-mixed-radix-case, and the-permutation algorithms become more complicated to implement.
+a-typical-strategy for in-place algorithms without auxiliary-storage and without separate-digit-reversal-passes involves small-matrix-transpositions (which swap individual-pairs of digits) at intermediate-stages, which can be combined with the-radix-butterflies to reduce the-number of passes over the-data.
+a-cpu-cache is a-hardware-cache used by the-central-processing-unit (cpu) of a-computer to reduce the-average-cost (time or energy) to access data from the-main-memory.
+much later however for l1-sizes, that still only count in small-number of kib, however-ibm-zec12 from 2012 is an-exception, to gain unusually large 96 kib l1 data cache for however-ibm-zec12 from 2012-time, and e.g. the ibm z13 having a 96 kib l1 instruction cache (and 128 kib l1 data cache), and intel-ice-lake-based-processors from 2018, having 48 kib l1 data cache and 48 kib l1 instruction cache.
+data is transferred between memory and cache in blocks of fixed-size, called cache lines or cache blocks.
+when a-cache-line is copied from memory into the-cache, a-cache-entry is created.
+if data is written to the-cache, at some-point the-cache must also be written to main-memory; the-timing of this-write is known as the-write-policy.
+alternatively, when a-cpu in a-multiprocessor-system updates data in the-cache, copies of data in caches associated with other-cpus become stale.
+thus knowing how well the-cache is able to bridge the-gap in the-speed of processor and memory becomes important, especially in high-performance-systems.
+the-time taken to fetch one-cache-line from memory (read latency due to a-cache-miss) matters because the-cpu will run out of things to do while waiting for the-cache-line.
+once the-address has been computed, the-one-cache-index which might have a-copy of that-location in memory is known.
+additionally, when it comes time to load a-new-line and evict an-old-line, it may be difficult to determine which existing-line was least recently used, because the-new-line-conflicts with data at different-indexes in each-way; lru-tracking for non-skewed-caches is usually done on a-per-set-basis.
+this-size can be calculated as the-number of bytes stored in each-data-block-times the-number of blocks stored in the-cache.
+bits, where b is the-number of bytes per data-block.
+the-number of sets is equal to the-number of cache-blocks divided by the-number of ways of associativity, what leads to 128-/-4-=-32-sets, and hence-25-=-32-different-indices.
+having a-dirty-bit-set indicates that the-associated-cache-line has been changed since the-associated-cache-line was read from main-memory ("dirty"), meaning that the-processor has written data to the-associated-cache-line and the-new-value has not propagated all the way to main-memory.
+a-cache-miss is a-failed-attempt to read or write a-piece of data in the-cache, which results in a-main-memory-access with much-longer-latency.
+instruction read miss, data read miss, and data write miss.
+to summarize, either-each-program running on the-machine sees the-machine own simplified-address-space, which contains code and data for that-program only, or all-programs run in a-common-virtual-address-space.
+however, the-latter-approach does not help against the-synonym-problem, in which several-cache-lines end up storing data for the-same-physical-address.
+these-hints are a subset or hash of the-virtual-tag, and are used for selecting the-way of the-cache from which to get data and a-physical-tag.
+programmers attempting to make maximum-use of the-cache may arrange programmers attempting to make maximum-use of the-cache programs' access patterns so that only-1-mib of data need be cached at any-given-time, thus avoiding capacity-misses.
+the-operation of a-particular-cache can be completely specified by the-cache-size, the-cache-block-size, the-number of blocks in a-set, the-cache-set-replacement-policy, and the-cache-write-policy (write-through or write-back).while all of the-cache-blocks in a-particular-cache are the-same-size and have the-same-associativity, typically-the-"lower-level"-caches (called level 1 cache) have a-smaller-number of blocks, smaller-block-size, and fewer-blocks in a-set, but have very-short-access-times.
+the-victim-cache-refill-path, and holds only-those-blocks of data that were evicted from the-main-cache.
+the-victim-cache is usually fully associative, and is intended to reduce the-number of conflict misses.
+in fact, only-a-small-fraction of the memory accesses of the-program require high-associativity.
+fetching complete-pre-decoded-instructions eliminates the-need to repeatedly decode variable-length-complex-instructions into simpler-fixed-length-micro-operations, and simplifies the-process of predicting, fetching, rotating and aligning fetched-instructions.
+furthermore, the-shared-cache makes the-shared-cache faster to share memory among different-execution-cores.
+in a-separate-cache-structure, instructions and data are cached separately, meaning that a-cache-line is used to cache either-instructions or data, but not both; various-benefits have been demonstrated with separate-data-and-instruction-translation-lookaside-buffers.
+other-processors (like the-amd-athlon) have exclusive-caches: data is guaranteed to be in at most one of the-l1-and-l2-caches, never in both.
+still other-processors (like the-intel-pentium-ii, iii, and 4) do not require that data in the-l1-cache also reside in the-l2-cache, although it may often do so.
+the-cache has only-parity-protection rather than ecc, because parity is smaller and any-damaged-data can be replaced by fresh-data fetched from memory (which always has an up-to-date copy of instructions).
+it is, however, possible for a-line in the-data-cache to have a-pte which is also in one of the-tlbs—the-operating-system is responsible for keeping the-tlbs coherent by flushing portions of a-line in the-data-cache to have a-pte which is also in one of the-tlbs when the-page tables in memory are updated.
+the-k8 also caches information that is never stored in memory—prediction-information.
+various-specialized-predictors are caches in that various-specialized-predictors store information that is costly to compute.
+program-execution-time tends to be very sensitive to the-latency of a level-1 data cache hit.
+an-n-way-set-associative-level-1-cache usually reads all-n-possible-tags and n data in parallel, and then chooses the-data associated with the-matching-tag.
+virtual-memory seen and used by programs would be flat and caching would be used to fetch data and instructions into the-fastest-memory ahead of processor-access.
+but since the-1980s the-performance-gap between processor and memory has been growing.
+microprocessors have advanced much faster than memory, especially in terms of microprocessors operating frequency, so memory became a-performance-bottleneck.
+the 68030, released in 1987, is basically a-68020-core with an-additional-256-byte-data-cache, an on-chip memory management unit (mmu), a process shrink, and added-burst-mode for the-caches.
+when accessing a-traditional-cache we normally use a-single-memory-address, whereas in a-multi-ported-cache we may request n addresses at a-time – where n is the-number of ports that connected through the-processor and the-cache.
+the-benefit of this is that a-pipelined-processor may access memory from different-phases in a-pipelined-processor pipeline.
+memory-hierarchy in cache-based-systems – by ruud-van-der-pas, 2002, sun-microsystems – a-nice-introductory-article to cpu memory caching a-cache-primer – by paul-genua, p.e., 2004, freescale-semiconductor, another-introductory-article an-8-way-set-associative-cache – written in vhdl
+because computations in a-concurrent-system can interact with each other while being executed, the-number of possible-execution-paths in the-system can be extremely large, and the-resulting-outcome can be indeterminate.
+concurrent-programming encompasses programming-languages and algorithms used to implement concurrent-systems.
+(linear in the-number of polygons in the-scene) and by subdividing overlapping-polygons to avoid errors that can occur with the-painter's-algorithm.
+the-process took place as an off-line preprocessing step that was performed once per environment/object.
+naylor's-ph.d.-thesis also included the-first-empirical-data demonstrating that the-size of the-tree and the-number of new-polygons were reasonable (using a-model of the-space-shuttle).
+bsp-trees-tutorial bsp-trees presentation another bsp-trees presentation a-java-applet that demonstrates the-process of tree-generation
+this-glossary of computer-science is a-list of definitions of terms and concepts used in computer-science, its-sub-disciplines, and related-fields, including terms relevant to software, data-science, and computer-programming.
+a-mathematical-model for data-types in which a-data-type is defined by its-behavior (semantics) from the-point of view of a-user of the-data, specifically in terms of possible-values, possible-operations on data of this-type, and the-behavior of these-operations.
+this contrasts with data-structures, which are concrete-representations of data from the-point of view of an-implementer rather than a-user.
+in software-engineering-and-computer-science, the-process of removing physical,-spatial,-or-temporal-details or attributes in the-study of objects or systems in order to more closely attend to other-details of interest; it is also very similar in nature to the-process of generalization.
+the-result of the-process of generalization: an-abstract-concept-object created by keeping common-features or attributes to various-concrete-objects or systems of study.
+algorithms can perform calculation, data-processing, and automated-reasoning-tasks.
+the-design of algorithms is part of many-solution-theories of operation-research, such as dynamic-programming and divide-and-conquer.
+a-property of an-algorithm which relates to the-number of computational-resources used by the-algorithm.
+other-artifacts are concerned with the-process of development itself—such as project-plans, business-cases, and risk-assessments.
+an-area of computer-science and mathematical-logic dedicated to understanding different-aspects of reasoning.
+usually the-resource being considered is running time, i.e. time complexity, but the-resource being considered could also be memory or some-other-resource.
+data with many-cases (rows) offer greater-statistical-power, while data with higher-complexity (more-attributes or columns) may lead to a-higher-false-discovery-rate.
+bit a-basic-unit of information used in computing-and-digital-communications; a-portmanteau of binary-digit.
+historically, byte a-unit of digital-information that most commonly consists of eight-bits, representing a-binary-number was the-number of bits used to encode a-single-character of text in a-computer and for this-reason byte a-unit of digital-information that most commonly consists of eight-bits, representing a-binary-number
+is the-smallest-addressable-unit of memory in many-computer-architectures.
+a-small-program does power-on self-tests and, most importantly, allows access to other-types of memory like a-hard-disk and main-memory.
+character-a-unit of information that roughly corresponds to a-grapheme, grapheme-like-unit, or symbol, such as in an-alphabet or syllabary in the-written-form of a-natural-language.
+coding-computer-programming is the-process of designing and building an-executable-computer-program for accomplishing a-specific-computing-task.
+programming involves tasks such as analysis, generating algorithms, profiling algorithms'-accuracy-and-resource-consumption, and the-implementation of algorithms in a-chosen-programming-language (commonly referred to as coding).
+the-process of programming thus often requires expertise in several-different-subjects, including knowledge of the-application-domain, specialized-algorithms, and formal-logic.
+codes are used for data-compression, cryptography, error-detection and correction, data-transmission and data storage.
+computational-biology is different from biological-computing, which is a-subfield of computer-science and computer-engineering using bioengineering and biology to build computers.
+computer-programming the-process of designing and building an-executable-computer-program for accomplishing a-specific-computing-task.
+programming involves tasks such as analysis, generating algorithms, profiling algorithms'-accuracy-and-resource-consumption, and the-implementation of algorithms in a-chosen-programming-language (commonly referred to as coding).
+the-process of programming thus often requires expertise in several-different-subjects, including knowledge of the-application-domain, specialized-algorithms, and formal-logic.
+computer-science
+the-theory, experimentation, and engineering that form the-basis for the-design and use of computers involves the-study of algorithms that process, store, and communicate digital-information.
+computer-scientist-a-person who has acquired the-knowledge of computer-science, the-study of the-theoretical-foundations of information and computation and information-and-computation-application.
+the-size of the-container depends on the-number of objects (elements)
+traditionally,-the-process-names of a-daemon-end with the-letter-d, for clarification that the-process is in fact a-daemon, and for differentiation between a-daemon and a-normal-computer-program.
+data-mining is an-interdisciplinary-subfield of computer-science and statistics with an-overall-goal to extract information (with intelligent-methods) from a data set and transform the-information into a-comprehensible-structure for further-use.
+an-interdisciplinary-field that uses scientific-methods, processes, algorithms, and systems to extract knowledge and insights from data in various-forms, both structured and unstructured, similar to data-mining.
+an-attribute of data which tells the-compiler or interpreter how the-programmer intends to use the-data.
+debugging the-process of finding and resolving defects or problems within a-computer-program that prevent correct-operation of computer-software or the-system as a-whole.
+debugging-tactics can involve interactive-debugging, control-flow-analysis, unit-testing, integration-testing, log file-analysis, monitoring at the-application-or-system-level, memory dumps, and profiling.
+in information-theory and information-systems, the-discrete,-discontinuous-representation of information or works.
+disk-storage (also sometimes called drive storage) is a-general-category of storage-mechanisms where data is recorded by various-electronic,-magnetic,-optical,-or-mechanical-changes to a-surface-layer of one-or-more-rotating-disks.
+a-field of computer-science that studies distributed systems.
+download in computer-networks, to receive data from a-remote-system, typically-a-server such as a-web-server, an-ftp-server, an-email-server, or other-similar-systems.
+this contrasts with uploading, where data is sent to a-remote-server.
+a-download is a-file offered for downloading or that has been downloaded, or the-process of receiving such a-file.
+in cryptography, encryption is the-process of encoding-information.
+the-process of encoding information converts the-original-representation of the-information, known as plaintext, into an-alternative-form known as ciphertext.
+evolutionary-computing-a-family of algorithms for global-optimization inspired by biological-evolution, and the-subfield of artificial-intelligence and soft-computing studying these-algorithms.
+executable-module-execution in computer-and-software-engineering is the-process by which a-computer or virtual-machine executes the-instructions of a-computer program.
+exception handling the-process of responding to the-occurrence, during computation, of exceptions – anomalous-or-exceptional-conditions requiring special-processing – often disrupting the-normal-flow of program-execution.
+exception handling the-process of responding to the-occurrence, during computation, of exceptions – anomalous-or-exceptional-conditions requiring special-processing – often disrupting the-normal-flow of program-execution is provided by specialized-programming-language-constructs, computer-hardware-mechanisms like interrupts, or operating-system
+relational-databases arrange data as sets of database-records, so called rows.
+h == handle in computer-programming, a-handle is an-abstract-reference to a-resource that is used when application software references blocks of memory or objects that are managed by another-system like a-database or an-operating-system.
+any-function that can be used to map data of arbitrary-size to data of a-fixed-size.
+inputs are the-signals or data received by the-system and outputs are the-signals or data sent from it.
+some-computer-hardware-devices, such as a-touchscreen, can both send and receive data through the-interface, while others such as a-mouse or microphone may only provide an-interface to send data to a-given-system.
+the-largest-use of bots is in web-spidering (web-crawler), in which an-automated-script fetches, analyzes and files information from web-servers at many-times the-speed of a-human.
+each-repetition of the-process is a-single-iteration, and the-outcome of each-iteration is then the-starting-point of the-next-iteration.
+a-simpler-version that writes its-output directly to memory is called the loader, though loading is typically considered a separate process.
+it is one of the-essential-stages in the-process of starting a-program, as it places programs into memory and prepares programs for execution.
+an-object consists of data and behavior.
+in software-engineering, a-software-development-process is the-process of dividing software-development-work into distinct-phases to improve design, product-management, and project-management.
+a-hardware-device that converts data into a-format suitable for a-transmission-medium so that a-hardware-device that converts data into a-format suitable for a-transmission-medium so that it can be transmitted from one-computer to another (historically along telephone-wires) can be transmitted from one-computer to another (historically along telephone-wires).
+nodes contain data and also may link to other-nodes.
+the-study of algorithms that use numerical-approximation (as opposed to symbolic-manipulations) for the-problems of mathematical-analysis (as distinguished from discrete-mathematics).
+o == object an-object can be a-variable, a-data-structure, a-function, or a-method, and as such, is a-value in memory referenced by an-identifier.
+in relational-database-management, an-object can be a-table or column, or an-association between data and a-database-entity (such as relating a-person's-age to a-specific-person).
+in computer-programming,-a-special-kind of variable, used in a-subroutine to refer to one of the-pieces of data provided as input to the-subroutine.
+these-pieces of data are the-values of the-arguments (often called actual-arguments or actual-parameters) with which the-subroutine is going to be called/invoked.
+peripheral-any-auxiliary-or-ancillary-device connected to or integrated within a-computer-system and used to send information to or retrieve information from the-computer.
+an-input-device sends data or instructions to the-computer; an-output-device provides output from the-computer to the-user; and an-input/output-device performs both-functions.
+a-pointer references a-location in memory, and obtaining the-value stored at a-location in memory is known as dereferencing pointer.
+programming-language-theory (plt) is a-branch of computer-science that deals with the-design, implementation, analysis, characterization, and classification of programming-languages and of programming-languages individual features.
+it has become a-well-recognized-branch of computer-science, and an-active-research-area, with results published in numerous-journals dedicated to plt, as well as in general computer-science and engineering publications.
+in digital-numeral-systems, the-number of unique-digits, including the digit zero, used to represent numbers in a-positional-numeral-system.
+reference counting a-programming-technique of storing the-number of references, pointers, or handles to a-resource, such as an-object, a-block of memory, disk-space, and others.
+data sent through the-internet, such as a-web-page or email, is in the-form of data-packets.
+a-data-table stored in a-router or a-network-host that lists the-routes to particular-network-destinations contains information about the-topology of the-network immediately around it.
+any-algorithm which solves the-search-problem, namely, to retrieve information stored within some-data-structure, or calculated in the-search-space of a-problem-domain, either with discrete-or-continuous-values.
+the-number of elements (possibly infinite) is called the length of the-sequence.
+also, the-sequence (1, 1, 2, 3, 5, 8), which contains the-number 1 at two-different-positions, is a-valid-sequence.
+serialization is the-process of translating data-structures or object state into a-format that can be stored (for example, in a-file-or-memory-buffer) or transmitted (for example, across a-network-connection-link) and reconstructed later (possibly in a-different-computer-environment).
+software-design is the-process by which an-agent creates a-specification of a-software-artifact, intended to accomplish goals, using a-set of primitive-components and subject to constraints.
+software-development is the-process of conceiving, specifying, designing, programming, documenting, testing, and bug-fixing involved in creating and maintaining applications, frameworks, or other-software-components.
+in software-engineering, a-software-development-process is the-process of dividing software-development-work into distinct-phases to improve design, product-management, and project-management.
+software-testing is an-investigation conducted to provide stakeholders with information about the-quality of the-software-product or service under test.
+test-techniques include the-process of executing a-program or application with the-intent of finding software-bugs (errors or other-defects), and verifying that the-software-product is fit for use.
+further, the-input-data is often stored in an-array, which allows random-access, rather than a-list, which only allows sequential-access; though many-algorithms can be applied to either-type of data after suitable-modification.
+a-nosql (originally referring to "non-sql" or "non-relational")-database provides a-mechanism for storage and retrieval of data that is modeled in means other than the-tabular-relations used in relational-databases.
+symbolic-computation in mathematics-and-computer-science, computer-algebra, also called symbolic-computation or algebraic-computation, is a-scientific-area that refers to the-study and development of algorithms and software for manipulating mathematical-expressions and other-mathematical-objects.
+type-theory in mathematics, logic, and computer-science
+upload in computer-networks, to send data to a-remote-system such as a-server or another-client so that the-remote-system can store a-copy.
+the-goal of this-interaction is to allow effective-operation and control of the-machine from the-human-end, whilst the-machine simultaneously feeds back information that aids the-operators'-decision-making-process.
+in computer-programming, a-variable, or scalar, is a-storage-location (identified by a-memory-address) paired with an-associated-symbolic-name (an-identifier), which contains some-known-or-unknown-quantity of information referred to as a-value.
+an-audio-file-format-standard, developed by microsoft and ibm, for storing an-audio-bitstream on pcs is an-application of the-resource-interchange-file-format (riff)-bitstream-format-method for storing data in "chunks", and thus is also close to the-8svx and the-aiff-format used on amiga and macintosh-computers, respectively.
+outline of computer-science ==
+researchers who focused on the-mathematical-reasoning behind the-effect graphed researchers who focused on the-mathematical-reasoning behind the-effect data in all-the-earlier-articles'-various-conventions and explained how the-numerical-reasoning used to argue for the-effect is similar in all.
+the-researchers then used the simulated data set and the-graphical-conventions of the-behavioral-scientists to produce patterns like those described as validating the-dunning–kruger-effect.
+they traced the-origin of the-patterns, not to the-dominant-literature's claimed psychological-disposition of humans, but instead to the-nature of graphing data bounded by limits of 0 and 100 and the-process of ordering and grouping the-paired-measures to create the-graphs.
+the-revised-mathematical-interpretation of data confirmed that people typically have no-pronounced-tendency to overestimate people actual-proficiency.
+while hal's-motivations are ambiguous in the-film, the-novel explains that the-computer is unable to resolve a-conflict between his-general-mission to relay information accurately, and orders specific to the-mission requiring that his-withhold from bowman and poole the true purpose of the-mission.
+dr.-chandra discovers that hal's-crisis was caused by a-programming-contradiction: sal was constructed for "the-accurate-processing of information without distortion or concealment", yet sal orders, directly from dr.-heywood-floyd at the-national-council on astronautics, required sal to keep the-discovery of the-monolith-tma-1 a secret for reasons of national-security.
+therefore, hal made the-decision to kill the-crew, thereby allowing hal to obey both hal hardwired instructions to report data truthfully and in full, and hal orders to keep the-monolith a secret.
+first, in contradiction to the-book (and events described in both-book-and-film-versions of 2001: a-space-odyssey), heywood-floyd is absolved of responsibility for hal's-condition; it is asserted that the-decision to program hal with information concerning tma-1 came directly from the-white-house.
+in sequential-logic, information from past-inputs is stored in electronic-memory-elements, such as flip-flops.
+if n is the-number of binary-memory-elements in the-circuit, the-maximum-number of states a-circuit can have is 2n. ==
+similarly, a-computer-program-stores data in variables, which represent storage-locations in the-computer's-memory.
+in some of serial-programs, information about previous-data-characters or packets received is stored in variables and used to affect the-processing of the-current-character or packet.
+since each-binary-memory-element has only-two-possible-states, 0 or 1, the-total-number of different-states a-circuit can assume is finite, and fixed by the-number of memory-elements.
+in order to calculate the-new-channel that the user desires, the-digital-tuner in the-television must have stored in the-digital-tuner in the-television the-number of the-current-channel it is on.
+it then adds one or subtracts one from the-number of the-current-channel it is to get the-number for the-new-channel, and adjusts the-tv to receive the-new-channel.
+the-number of the-current-channel it is is then stored as the-current-channel.
+data (computing) ==
+theoretical-computer-science (tcs) is a-subset of general-computer-science that focuses on mathematical-aspects of computer-science such as the-theory of computation, lambda-calculus, and type-theory.
+algorithms
+algorithms are used for calculation, data-processing, and automated-reasoning.
+computational-biology is different from biological-computation, which is a-subfield of computer-science and computer-engineering using bioengineering and biology to build computers, but is similar to bioinformatics, which is an-interdisciplinary-science using computers to store and process biological-data.
+other-complexity-measures are also used, such as the-amount of communication (used in communication-complexity), the-number of gates in a-circuit (used in circuit-complexity) and the-number of processors (used in parallel-computing).
+computational-geometry is a-branch of computer-science devoted to the-study of algorithms that can be stated in terms of geometry.
+an-ancient-precursor is the-sanskrit-treatise shulba-sutras, or "rules of the-chord", that is a-book of algorithms written in 800-bce.
+a-book of algorithms written in 800-bce prescribes step-by-step procedures for constructing geometric-objects like altars using a-peg and chord.
+the-goal of the-supervised-learning-algorithm is to optimize some-measure of performance such as minimizing the-number of mistakes made on new-samples.
+computational-number-theory, also known as algorithmic-number-theory, is the-study of algorithms for performing number-theoretic-computations.
+a-data-structure is a-particular-way of organizing data in a-computer so that a-data-structure can be used efficiently.
+data-structures provide a-means to manage large-amounts of data efficiently for uses such as large-databases and internet-indexing-services.
+storing and retrieving can be carried out on data stored in both-main-memory and in secondary-memory.
+a-computer-program that runs in a-distributed-system is called a distributed program, and distributed-programming is the-process of writing such-programs.
+information-theory is a-branch of applied-mathematics, electrical-engineering, and computer-science involving the-quantification of information.
+information-theory was developed by claude-e.-shannon to find fundamental-limits on signal-processing-operations such as compressing data and on reliably storing and communicating data.
+machine-learning is a-scientific-discipline that deals with the-construction and study of algorithms that can learn from data.
+machine-learning can be considered a subfield of computer-science and statistics.
+whereas digital-computers require data to be encoded into binary-digits (bits), each of which is always in one of two-definite-states (0 or 1), quantum-computation uses qubits (quantum-bits), which can be in superpositions of states.
+computer-algebra, also called symbolic-computation or algebraic-computation is a-scientific-area that refers to the-study and development of algorithms and software for manipulating mathematical-expressions and other-mathematical-objects.
+very-large-scale-integration (vlsi) is the-process of creating an-integrated-circuit (ic) by combining thousands of transistors into a-single-chip.
+“discrete mathematics and theoretical computer science” information and computation theory of computing (open-access-journal)
+fundamenta-informaticae-acm-transactions on computation theory computational complexity journal of complexity acm transactions on algorithms
+annual-ieee-symposium on foundations of computer-science (focs)
+mathematical-foundations of computer-science (mfcs)
+ieee-symposium on logic in computer-science (lics)
+acm-symposium on parallelism in algorithms and architectures (spaa)
+annual-conference on learning-theory (colt)-symposium on theoretical-aspects of computer-science (stacs)-european-symposium on algorithms-(esa)-workshop on approximation-algorithms for combinatorial-optimization-problems (approx)
+international-symposium on algorithms and computation (isaac)
+international-workshop on graph-theoretic-concepts in computer-science (wg)
+attribution-theory ==== focuses on identifying how an-observer uses information in attribution-theory ====/her
+kelley used the-term-'covariation' to convey that when making attributions, people have access to information from many-observations, across different-situations, and at many-time-points; therefore, people can observe the-way a-behavior varies under these-different-conditions and draw conclusions based on that-context.
+situational-attributions-research helped to reveal the-specific-mechanisms underlying the-process of making attributions.
+the-process by which individuals explain the-causes of behavior and events fallacy of the-single-cause – assumption of a-single-cause where multiple-factors may be necessary-causality –
+it is similar to mergesort, but it is a-cache-oblivious-algorithm, designed for a-setting where the-number of elements to sort is too large to fit in a-cache where operations are done.
+{\displaystyle q_{m}(k)} denote the-number of cache misses incurred by a-call to a-k-merger, one can show that q m (
+for larger-k, we can bound the-number of times a--------------k {\displaystyle {\sqrt {k}}}
+in computing, external-memory-algorithms or out-of-core algorithms are algorithms that are designed to process data that are too large to fit into a-computer's-main-memory at once.
+such-algorithms must be optimized to efficiently fetch and access data stored in slow-bulk-memory (auxiliary-memory) such as hard-drives or tape-drives, or when memory is on a-computer-network.
+external-memory-algorithms are analyzed in an-idealized-model of computation called the external memory model (or i/o-model, or disk-access-model).
+the-running-time of an-algorithm in the-external-memory-model is defined by the-number of reads and writes to memory required.
+the-external-memory-model is related to the-external-memory-model, but algorithms in the-external-memory-model may know both-the-block-size and the-cache-size.
+b.-one-input/output-or-memory-transfer-operation consists of moving a-block of b-contiguous-elements from external to internal-memory, and the-running-time of an-algorithm is determined by the-number of these-input/output-operations.
+algorithms ==
+algorithms in the-external-memory-model take advantage of the-fact that retrieving one-object from external-memory retrieves an-entire-block of size b {\displaystyle b} .
+information theoretically, this is the-minimum-running-time possible for these-operations, so using a-b-tree is asymptotically optimal.
+external-sorting is sorting in an external memory setting.
+the-external-memory-model is also useful for analyzing algorithms that work on datasets too big to fit in internal-memory.
+in general-purpose-computing on graphics-processing-units (gpgpu), powerful graphics cards (gpus) with little-memory (compared with the-more-familiar-system-memory, which is most often referred to simply as ram) are utilized with relatively slow cpu-to-gpu memory transfer (when compared with computation-bandwidth).
+an-early-use of the-term "out-of-core" with respect to algorithms appears in 1971.
+parallel external-memory external memory graph traversal ==
+in computing, a-cache-(-(listen)-kash, or kaysh in australian-english) is a-hardware-or-software-component that stores data
+so that future-requests for that-data can be served faster; the-data stored in a-cache might be the-result of an-earlier-computation or a-copy of data stored elsewhere.
+cache-hits are served by reading data from the-cache, which is faster than recomputing a-result or reading from a-slower-data-store; thus, the-more-requests that can be served from the-cache, the faster the-system performs.
+nevertheless, caches have proven caches in many-areas of computing, because typical-computer-applications access data with a-high-degree of locality of reference.
+such-access-patterns exhibit temporal-locality, where data is requested that has been recently requested already, and spatial locality, where data is requested that is stored physically close to data that has already been requested.
+for example, consider a-program accessing bytes in a-32-bit-address-space, but being served by a 128-bit off-chip data bus; individual-uncached-byte-accesses would allow only 1/16th of the-total-bandwidth to be used, and 80% of the-data-movement would be memory-addresses instead of data itself.
+hardware implements cache as a-block of memory for temporary-storage of data likely to be used again.
+when the-cache-client (a-cpu,-web-browser,-operating-system) needs to access data presumed to exist in the-backing-store, the-cache-client (a-cpu,-web-browser,-operating-system)
+this requires a-more-expensive-access of data from the-backing-store.
+when a-system writes data to cache, a-system must at some-point write that-data to the-backing-store as well.
+the-client may make many-changes to data in the-cache, and then explicitly notify the-cache to write back the-needed-data.
+since no-data is returned to the-requester on write-operations, a-decision needs to be made on write-misses, whether or not data would be loaded into the-cache.
+this is defined by these-two-approaches: write allocate (also called fetch on write): data at the-missed-write-location is loaded to cache, followed by a-write-hit-operation.
+data at the-missed-write-location is not loaded to cache, and is written directly to the-backing-store.
+in this-approach, data is loaded into the-cache on read misses only.
+information-centric-networking (icn) is an-approach to evolve the-internet-infrastructure away from a-host-centric-paradigm, based on perpetual-connectivity and the end-to-end principle, to a-network-architecture in which the-focal-point is identified information (or content or data).
+finally, a-fast-local-hard-disk-drive can also cache information held on even-slower-data-storage-devices, such as remote-servers (web-cache) or local-tape-drives or optical-jukeboxes; such-a-scheme is the-main-concept of hierarchical-storage-management.
+web-caches reduce the-amount of information that needs to be transmitted across the-network, as information previously stored in the-cache can often be re-used.
+a-cache can store data that is computed on demand rather than retrieved from a-backing-store.
+the-semantics of a-"buffer" and a-"cache" are not totally different; even so, there are fundamental-differences in intent between the-process of caching and the-process of buffering.
+fundamentally, caching realizes a-performance-increase for transfers of data that is being repeatedly transferred.
+buffering, on the-other-hand, reduces the-number of transfers for otherwise-novel-data amongst communicating processes, which amortizes overhead involved for several-small-transfers over fewer,-larger-transfers, provides an-intermediary for communicating processes which are incapable of direct-transfers amongst each other, or
+a-buffer is a-temporary-memory-location that is traditionally used because cpu-instructions cannot directly address data stored in peripheral-devices.
+additionally, such-a-buffer may be feasible when a-large-block of data is assembled or disassembled (as required by a-storage-device), or when data may be delivered in a-different-order than that in which it is produced.
+also, a-whole-buffer of data is usually transferred sequentially (for example to hard-disk), so buffering itself sometimes increases transfer-performance or reduces the-variation or jitter of the-transfer's-latency as opposed to caching where the-intent is to reduce the-latency.
+in computer-science, an-object can be a-variable, a-data-structure, a-function, or a-method, and as such, is a-value in memory referenced by an-identifier.
+in the-relational-model of database-management, an-object can be a-table or column, or an-association between data and a-database-entity (such as relating a-person's-age to a-specific-person).
+filter-object: an-object that receives a-stream of data as its-input and transforms its into the-object's-output.
+another-critical-difference is the-way the-model treats information that is currently not in the-system.
+methods for controlling and tuning basic-heuristic-algorithms, usually with usage of memory and learning.
+with bounded-rationality, simon's-goal was "to replace the-global-rationality of economic-man with a-kind of rational-behavior that is compatible with the-access to information and the-computational-capacities that are actually possessed by organisms, including man, in the-kinds of environments in which such-organisms exist.
+huw-dixon later argues that it may not be necessary to analyze in detail the-process of reasoning underlying-bounded-rationality.
+the-advantage of this-approach is that this-approach avoids having to specify in detail the-process of reasoning, but rather simply assumes that whatever the-process is, it is good enough to get near to the optimum.
+from a-computational-point of view, decision-procedures can be encoded in algorithms and heuristics.
+when time === is scarce and information complex, people are prone to use heuristics in general.
+this-research indicates that people not only want censored information more but have an-increased-susceptibility to the-message of the-censored-material.
+} , where n is the-number of polygons and p is the-number of pixels in the-viewport.
+algorithms that construct convex-hulls of various-objects have a-broad-range of applications in mathematics and computer-science.
+the-complexity of the-corresponding-algorithms is usually estimated in terms of n, the-number of input-points, and sometimes also in terms of h, the-number of points on the-convex-hull.
+such-algorithms may be asymptotically more efficient than θ(n log n) algorithms in cases when h = o(n).
+algorithms ===
+time-complexity of each-algorithm is stated in terms of the-number of inputs points n and the-number of points on the-hull
+it has o(nh)-time-complexity, where n is the-number of points in the-set, and h is the-number of points in the-hull.
+insertion of a-point may increase the-number of vertices of a-convex-hull at most by 1, while deletion may convert an-n-vertex-convex-hull into an-n-1-vertex-one.
+a-number of algorithms are known for the-three-dimensional-case, as well as for arbitrary-dimensions.
+the-size of the-output face information may be exponentially larger than the-size of the-input-vertices, and even in cases where the-input and output are both of comparable-size the-known-algorithms for high-dimensional-convex-hulls are not output-sensitive due both to issues with degenerate-inputs and with intermediate-results of high-complexity.
+2d, 3d, and dd-convex-hull in cgal, the computational geometry algorithms library
+because matrix-multiplication is such-a-central-operation in many-numerical-algorithms, much-work has been invested in making matrix-multiplication algorithms efficient.
+the-number of cache misses incurred by that-algorithm, on a-machine with m-lines of ideal-cache, each of size-b-bytes, is bounded by
+algorithms exist that provide better-running-times than the-straightforward-ones.
+that, given matrices-a, b and c, verifies in θ(n2) time if ab = c. == parallel and distributed algorithms == ===
+this-algorithm isn't practical due to the-communication-cost inherent in moving data to and from the-temporary-matrix-t, but a-more-practical-variant achieves θ(n2)-speedup, without using a-temporary-matrix.
+communication-avoiding and distributed algorithms ===
+on a-single-machine this is the-amount of data transferred between ram and cache, while on a-distributed-memory-multi-node-machine
+this reduces communication-bandwidth to o(n3/√m), which is asymptotically optimal (for algorithms performing ω(n3) computation).in a-distributed-setting with p-processors arranged in a-√p by √p-2d-mesh, one-submatrix of the-result can be assigned to each-processor, and the-product can be computed with each-processor transmitting o(n2/√p) words, which is asymptotically optimal assuming that each-node stores the-minimum-o(n2/p)-elements.
+2.5d" algorithms provide a-continuous-tradeoff between memory-usage and communication-bandwidth.
+algorithms for meshes ===
+there are a-variety of algorithms for multiplication on meshes.
+one-experiment measured complexity in a-room by the-number of small-objects and appliances present; a-simple-room had less of those-things.
+problem solving is the-process of investigating the-given-information and finding all-possible-solutions through invention or discovery.
+decision-precision-paralysis is cyclical, just like the first one, but instead of going over the-same-information, the-decision-maker will find new-questions and information from their-analysis and that will lead their to explore into further-possibilities rather than making a-decision.
+information-overload is "a-gap between the-volume of information and the-tools we have to assimilate" it.
+information used in decision-making is to reduce or eliminate uncertainty.
+the-process was based on extensive-earlier-research conducted with psychologist-irving-janis.
+the-process of rational-decisions making favors-logic, objectivity, and analysis over subjectivity and insight.
+one-such-behavior is adaptive-decision-making, which is described as funneling and then analyzing the-more-promising-information provided if the-number of options to choose from increases.
+decision-making is because children lack the-ability to weigh the-cost and effort needed to gather information in the-decision-making-process.
+selective-perception: people actively screen out information that people do not think is important (see also prejudice).
+the-opposite-effect in the-first-set of data or other-information is termed primacy effect.
+framing bias: this is best avoided by increasing numeracy and presenting data in several-formats (for example, using both-absolute-and-relative-scales).sunk-cost-fallacy is a-specific-type of framing-effect that affects decision-making.
+one-method consists of three-steps: initial-preferences are expressed by members; the-members of the-group then gather and share information concerning those-preferences; finally, the-members of the-group combine the-members of the-group views and make a-single-choice about how to face the-problem.
+the-rational-style is an-in-depth-search for, and a-strong-consideration of, other-options and/or information prior to making a-decision.
+as a-subdiscipline of pedagogy-computer-science-education or computing-education also addresses the-wider-impact of computer-science in society through computer-science in society-intersection with philosophy, psychology, linguistics, natural-sciences, and mathematics.
+computer-science has been a-part of the-school-curricula from age 14 or age 16 in a-few-countries for a-few-decades, but has typically as an-elective-subject.
+educational-research on computing-and-teaching-methods in computer-science is usually known as computing-education-research.
+women in computer-science ==
+the-number of female-phd-recipients in the-us was 19.3% in 2018.
+the-original-machine-readable-medium used for data (as opposed to control) was punch-card used for records in the-1890-united-states-census: each punch-card was a-single-record.
+each-file is associated with a-record-variable where data is read into or written from.
+representation in memory ==
+the-representation of records in memory varies depending on the-programming-languages.
+a-self-defining-record is a-type of record which contains information to identify the-record-type and to locate information within the-record.
+data-hazards occur when instructions that exhibit data-dependence modify data in different-stages of a-pipeline.
+a-write after write (waw) data hazard may occur in a-concurrent-execution-environment.
+if the-number of nops equals the-number of stages in the-pipeline, the-processor has been cleared of all-instructions and can proceed free from hazards.
+there are several-main-solutions and algorithms used to resolve data-hazards: insert a-pipeline-bubble whenever a-read after write-(raw)-dependency is encountered, guaranteed to increase latency, or use out-of-order execution to potentially prevent the-need for pipeline
+bubbles use operand forwarding to use data from later-stages in the pipelinein the-case of out-of-order execution, the-algorithm used can be: scoreboarding, in which-case a-pipeline-bubble is needed only when there is no-functional-unit available the-tomasulo-algorithm, which uses register-renaming, allowing continual-issuing of instructionsthe-task of removing data-dependencies can be delegated to the-compiler, which can fill in an-appropriate-number of nop-instructions between dependent-instructions to ensure correct-operation, or re-order-instructions where possible.
+different-types of memory have different accessing time to the-memory.
+confirmation-bias: the-tendency to search for, interpret, or recall information in a-way that confirms one's-beliefs or hypotheses.
+context-effect: that cognition and memory are dependent on context, such that out-of-context memories are more difficult to retrieve than in-context memories (e.g., recall-time and accuracy for a-work-related-memory will be lower at home, and vice versa).
+levels-of-processing effect: that different-methods of encoding information into memory have different-levels of effectiveness (craik & lockhart, 1972).
+when information is retained in memory but the-source of the-memory is forgotten.
+the-improved-recall of information congruent with one's-current-mood.
+spacing effect: that-information is better recalled if exposure to information is repeated over a-longer-span of time.
+stereotypical-bias: memory distorted towards stereotypes (e.g. racial or gender) , e.g. "black-sounding" names being misremembered as names of criminals.
+testing-effect: that-frequent-testing of material that has been committed to memory improves memory-recall.
+a-block of memory cannot necessarily be placed randomly in the-cache and may be restricted to a-single-cache-line or a-set of cache-lines by the-cache placement policy.
+since any-block of memory can be mapped to any-cache-line, the-memory-block can occupy one of the-cache-lines based on the-replacement-policy.
+additionally, when it comes time to load a-new-line and evict an-old-line, it may be difficult to determine which existing-line was least recently used, because the-new-line-conflicts with data at different-indexes in each-way; lru-tracking for non-skewed-caches is usually done on a-per-set-basis.
+this can be done in-place, requiring small-additional-amounts of memory to perform the-sorting.
+lomuto's-partition-scheme was also popularized by the-textbook-introduction to algorithms although lomuto's-partition-scheme is inferior to hoare's-scheme because lomuto's-partition-scheme does three-times-more-swaps on average and degrades to o(n2) runtime when all-elements are equal.
+however, with a-partitioning-algorithm such as the-hoare-partition-scheme, repeated-elements generally results in better-partitioning, and although needless-swaps of elements equal to the-pivot may occur, the-running-time generally decreases as the-number of repeated-elements increases (with memory-cache reducing the-swap overhead).
+when the-number of elements is below some-threshold (perhaps-ten-elements), switch to a-non-recursive-sorting-algorithm such as insertion-sort that performs fewer-swaps, comparisons or other-operations on such-small-arrays.
+an-older-variant of the-previous-optimization: when the-number of elements is less than the-threshold k, simply stop; then after the-whole-array has been processed, perform insertion sort on it.
+so, averaging over all-possible-splits and noting that the-number of comparisons for the-partition is n-− 1, the-average-number of comparisons over all-permutations of the-input-sequence can be estimated accurately by solving the-recurrence-relation: c (
+the-number of comparisons of the-execution of quicksort equals the-number of comparisons during the-construction of the-bst by a-sequence of insertions.
+quicksort must store a-constant-amount of information for each-nested-recursive-call.
+the-number of records per buffer, and m-=-n/b =
+the-number of buffer-segments in the-file.
+data is read (and written) from both-ends of the-file inwards.
+data is read into the x and y read buffers.
+the-process continues until all-segments are read and one-write-buffer remains.
+the-process is continued until all-sub-files are sorted and in place.
+in any-comparison-based-sorting-algorithm, minimizing the-number of comparisons requires maximizing the-amount of information gained from each-comparison, meaning that the-comparison-results are unpredictable.
+the-name "master-theorem" was popularized by the-widely-used-algorithms-textbook-introduction to algorithms by cormen, leiserson, rivest, and stein.
+the-master-theorem always yields asymptotically-tight-bounds to recurrences from divide and conquer algorithms that partition an-input into smaller-subproblems of equal-sizes, solve the-subproblems recursively, and then combine the-subproblem-solutions to give a-solution to the-original-problem.
+is the-number of subproblems in the-recursion, and b {\displaystyle b} is the-factor by which the-subproblem-size is reduced in each-recursive-call.
+a is not a-constant; the-number of subproblems should be fixed t ( n )
+from 1974 to 1978 he was the-fletcher-jones-professor of computer-science at california-institute of technology, where he was the-founding-head of that-school's-computer-science-department.
+list of pioneers in computer-science ==
+the-frequency-illusion may also have legal-implications, as eye-witness-accounts and memory can be influenced by this-illusion.
+the-microsoft-sponsored-program-technology-education and literacy in schools (teals) aims to increase the-number of students taking ap-computer-science-classes.
+since 2003, the-ap-computer-science-exam has tested students on students-knowledge of computer-science through java.
+computer-science
+glossary of computer-science ==
+it is one of a-group of heuristics (simple-rules governing judgment or decision-making) proposed by psychologists-amos-tversky and daniel-kahneman in the-early-1970s as "the-degree to which [an event] (i) is similar in essential-characteristics to it parent-population, and (ii) reflects the-salient-features of the-process by which it is generated".
+nilsson, juslin, and olsson (2008) found this to be influenced by the-exemplar-account of memory (concrete-examples of a-category are stored in memory)
+for example, more-than-95% of the-participants said that tom would be more likely to study computer-science than education or humanities, when there were much-higher-base-rate-estimates for education and humanities than computer-science.
+research by maya-bar-hillel (1980) suggests that perceived-relevancy of information is vital to base-rate-neglect: base-rates are only included in judgments if base-rates seem equally relevant to the-other-information.
+(53)the-values shown in parentheses are the-number of students choosing each-answer.
+because of this, defined-parameters or boundaries must be implemented in the-process in order to achieve an-acceptable-outcome.
+examples of social-information include information about the-behavior of a-social-entity or the-properties of a-social-system, while nonsocial-information is information about something physical.
+an-agent using the-heuristic would search through her-social-circles in order of their-proximity to the-self (self, family, friends, and acquaintances), stopping the-search as soon as the-number of instances of one-alternative within a-circle exceeds that of the other, choosing the-alternative with the-higher-tally.
+the-process that involves using common-mental-shortcuts that help a-decision to be made based on known-probabilities.
+where finding an-optimal-solution is impossible or impractical, heuristic-methods can be used to speed up the-process of finding a-satisfactory-solution.
+anchoring and adjustment — describes the-common-human-tendency to rely more heavily on the-first-piece of information offered (the "anchor") when making decisions.
+for example, in a-study done with children, children were told to estimate the-number of jellybeans in a-jar.
+children estimated the-number of jellybeans to be closer to the-anchor-number that groups of children were given.
+a-20-year-term is used because it is difficult to tell what the-number should be for any-individual-patent.
+the-domain of pro-environmental-behavior provides numerous-illustrations for this-strategy, such as littering behavior in public-places, the-reuse of towels in hotel-rooms, and changes in private-energy-consumption in response to information about the-consumption of the-majority of neighbors.
+in situations of uncertainty, where information is incomplete, heuristics allow for the-less-is-more-effect, in which less-information leads to greater-accuracy.
+the-decision-maker gradually reduces the-number of alternatives by eliminating alternatives that do not meet the-aspiration-level of a-specific-attribute (or aspect).
+the take-the-best heuristic exploits the-basic-psychological-capacity for retrieving cues from memory in the-order of their-validity.
+vi = ci /-tiwhere-ti is the-number of cases the-values of the-two-alternatives differ on cue-i.
+they typically reply that the-number of births in the-hospital makes no-difference to the-likelihood of more-than-60%-male-babies in one-day.
+substitution is not expected to take place in answering factual-questions that can be retrieved directly from memory ("what is your-birthday?")
+this explains how there are often two-ways we are able to process information from persuasive-messages, one being heuristically and the other systematically.
+when time is scarce and information complex, people are prone to use heuristics in general.
+this-research indicates that people not only want censored information more but have an-increased-susceptibility to the-message of the-censored-material.
+with bounded-rationality, simon's-goal was "to replace the-global-rationality of economic-man with a-kind of rational-behavior that is compatible with the-access to information and the-computational-capacities that are actually possessed by organisms, including man, in the-kinds of environments in which such-organisms exist.
+huw-dixon later argues that it may not be necessary to analyze in detail the-process of reasoning underlying-bounded-rationality.
+the-advantage of this-approach is that this-approach avoids having to specify in detail the-process of reasoning, but rather simply assumes that whatever the-process is, it is good enough to get near to the optimum.
+from a-computational-point of view, decision-procedures can be encoded in algorithms and heuristics.
+the-process of persuasion has been found to be influenced by numerous-variables that generally fall into one of five-major-categories: communicator: includes credibility, expertise, trustworthiness, and attractiveness.
+social-cognition studies how people perceive, think about, and remember information about others.
+the-hindsight-bias is a-type of bias leading to the-tendency to search for or interpret information in a-way that confirms one's-preconceptions.
+for example, an-athlete at a-university would have multiple-selves that would process different-information pertinent to each-self: the-student would be oneself, who would process information pertinent to a-student (taking notes in class, completing a-homework-assignment, etc.);
+an-athlete at a-university would be the-self who processes information about things related to being an-athlete (recognizing an-incoming-pass, aiming a-shot, etc.).
+how do individuals become individuals, build a-self-concept, and uphold a-stable-sense of identity?affective-forecasting is the-process of predicting how one would feel in response to future-emotional-events.
+by comparing themselves to others, people gain information about people, and people make inferences that are relevant to self-esteem.
+for example, one could correlate the-number of violent-television shows children watch at home with the-number of violent-incidents the-children participate in at school.
+an-example would be to unobtrusively observe children on a-playground (with a-videocamera, perhaps) and record the-number and types of aggressive-actions displayed.
+also, participant-conformity increased substantially as the-number of "incorrect"-individuals increased from one to three, and remained high as the-incorrect-majority grew.
+social-psychology on all-about psychology — information and resources

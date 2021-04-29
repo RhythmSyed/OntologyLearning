@@ -1,0 +1,2 @@
+hospitals the-world
+confirmed-cases the-world

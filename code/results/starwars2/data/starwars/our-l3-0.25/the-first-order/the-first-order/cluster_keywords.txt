@@ -1,0 +1,15 @@
+0	tran
+0	skywalker
+0	the-last-jedi
+0	the-show
+0	kylo-ren
+0	the-resistance
+0	luke-skywalker
+0	the-first-order
+0	the-galaxy
+0	planets
+1	the-character
+1	mars
+1	the-solar-system
+1	the-sun
+1	earth

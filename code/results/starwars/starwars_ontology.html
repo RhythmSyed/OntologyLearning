@@ -1,0 +1,108 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 1000;
+            height: 500;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "the-game", "label": "the-game", "shape": "dot"}, {"id": "the-character", "label": "the-character", "shape": "dot"}, {"id": "february", "label": "february", "shape": "dot"}, {"id": "the-republic", "label": "the-republic", "shape": "dot"}, {"id": "the-galactic-empire", "label": "the-galactic-empire", "shape": "dot"}, {"id": "leia", "label": "leia", "shape": "dot"}, {"id": "george-lucas", "label": "george-lucas", "shape": "dot"}, {"id": "abrams", "label": "abrams", "shape": "dot"}, {"id": "boba-fett", "label": "boba-fett", "shape": "dot"}, {"id": "season", "label": "season", "shape": "dot"}, {"id": "attack", "label": "attack", "shape": "dot"}, {"id": "the-battle", "label": "the-battle", "shape": "dot"}, {"id": "the-galaxy", "label": "the-galaxy", "shape": "dot"}, {"id": "palpatine", "label": "palpatine", "shape": "dot"}]);
+        edges = new vis.DataSet([{"from": "the-game", "label": "part of", "to": "the-character"}, {"from": "the-game", "label": "was", "to": "february"}, {"from": "the-republic", "label": "follows", "to": "the-galactic-empire"}, {"from": "the-republic", "label": "member of", "to": "leia"}, {"from": "the-character", "label": "is", "to": "the-character"}, {"from": "the-character", "label": "notable work", "to": "george-lucas"}, {"from": "the-character", "label": "part of", "to": "abrams"}, {"from": "the-character", "label": "became despite", "to": "boba-fett"}, {"from": "february", "label": "is", "to": "february"}, {"from": "february", "label": "part of", "to": "season"}, {"from": "the-galactic-empire", "label": "participant", "to": "attack"}, {"from": "the-galactic-empire", "label": "is", "to": "the-galactic-empire"}, {"from": "the-galactic-empire", "label": "part of", "to": "the-battle"}, {"from": "the-galactic-empire", "label": "part of", "to": "the-galaxy"}, {"from": "leia", "label": "child", "to": "palpatine"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

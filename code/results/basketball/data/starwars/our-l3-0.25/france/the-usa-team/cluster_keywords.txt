@@ -1,0 +1,9 @@
+0	the-ball
+1	the-usa
+1	the-usa-team
+1	july
+1	canada
+1	france
+1	spain
+1	the-game
+1	the-team

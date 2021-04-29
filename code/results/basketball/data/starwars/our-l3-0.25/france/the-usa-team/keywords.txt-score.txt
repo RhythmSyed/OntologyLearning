@@ -1,0 +1,9 @@
+the-usa	0.693147
+the-usa-team	0.693147
+july	0.693147
+canada	0.693147
+france	0.693147
+spain	0.693147
+the-game	0.684598
+the-ball	0.681119
+the-team	0.652593

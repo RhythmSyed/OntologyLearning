@@ -1,0 +1,12 @@
+0	a-planet
+0	the-old-republic
+0	the-planet
+0	knights
+1	warsaw
+1	revenge
+1	the-empire
+1	list
+1	the-sith
+1	the-story
+1	the-jedi
+1	return

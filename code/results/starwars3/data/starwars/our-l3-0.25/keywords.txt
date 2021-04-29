@@ -1,0 +1,17 @@
+individuals
+participants
+computers
+decision-making
+memory
+heuristics
+people
+the-process
+algorithms
+example
+the-cache
+the-number
+time
+computer-science
+order
+data
+information

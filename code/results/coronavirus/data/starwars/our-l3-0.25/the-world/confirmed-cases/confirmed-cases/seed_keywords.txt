@@ -1,0 +1,11 @@
+new-cases
+deaths
+confirmed-cases
+covid-19-cases
+the-state
+the-philippines
+the-first-case
+cases
+coronavirus
+the-covid-19-pandemic
+brazil

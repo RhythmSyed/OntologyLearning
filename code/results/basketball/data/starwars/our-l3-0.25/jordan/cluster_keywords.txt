@@ -1,0 +1,15 @@
+0	smith
+0	april
+0	march
+0	the-wnba
+1	the-celtics
+1	game
+1	the-year
+1	jordan
+1	women
+1	basketball
+1	the-united-states
+1	players
+1	the-end
+1	the-nba
+1	the-league

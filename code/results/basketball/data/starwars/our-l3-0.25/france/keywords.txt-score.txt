@@ -1,0 +1,16 @@
+the-ball	0.693147
+france	0.693147
+teams	0.682126
+the-tournament	0.670815
+canada	0.656460
+the-opals	0.656184
+australia	0.646856
+the-usa	0.608974
+the-game	0.607172
+spain	0.603039
+the-u.s.	0.602272
+the-usa-team	0.601109
+brazil	0.549323
+july	0.534686
+the-team	0.498030
+the-us	0.440420

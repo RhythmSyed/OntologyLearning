@@ -1,0 +1,7 @@
+the-tally	0.693147
+vaccine	0.693147
+the-process	0.693147
+the-first-dose	0.693147
+regencies	0.693147
+510-municipalities	0.693147
+monitoring	0.693147

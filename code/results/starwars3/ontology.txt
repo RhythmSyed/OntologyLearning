@@ -1,0 +1,8 @@
+"computers","is","computers"
+"computers","used to","heuristics"
+"the-process","is","information"
+"the-process","is","the-process"
+"order","is","order"
+"computers","apply social-rules to","people"
+"information","is in","memory"
+"information","stored within","data"
