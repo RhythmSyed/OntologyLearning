@@ -42,7 +42,7 @@ def generate_dataset(all_topics, dataset_name):
 
 def main(dataset_name, start_topic, num_of_topics):
     print('*** Generating Topics starting with {} ***'.format(start_topic))
-    topics = generate_topics('Basketball', topic_threshold=int(num_of_topics))
+    topics = generate_topics(start_topic, topic_threshold=int(num_of_topics))
     print('*** Creating Dataset ***')
     generate_dataset(topics, dataset_name)
     print('*** DONE ***')
